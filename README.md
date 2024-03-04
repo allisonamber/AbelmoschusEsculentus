@@ -3,7 +3,7 @@
 <param ve-config 
        title="Okra: How An Orphaned Plant Became the People's Vegetable"
        author="Allison Caban, Malek Charchour, and Mary Nriagu"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       banner="https://iiif.juncture-digital.org/banner/?url=https://commons.wikimedia.org/wiki/File:Gator_Hunting_2011_in_Louisiana_05.jpg
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
