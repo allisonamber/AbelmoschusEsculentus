@@ -1,4 +1,4 @@
-<a href="https://juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
+<a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
 <param ve-config 
        title="Okra: How An Orphaned Plant Became The People's Vegetable"
