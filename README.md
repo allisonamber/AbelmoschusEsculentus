@@ -17,7 +17,8 @@
 # Sample visual essay
 
 This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
-<param ve-image  manifest="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Okra_%28Abelmoschus_esculentus%29_fruit_opened.jpg/1600px-Okra_%28Abelmoschus_esculentus%29_fruit_opened.jpg?20131002223835">
+<param ve-image
+       manifest="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Okra_%28Abelmoschus_esculentus%29_fruit_opened.jpg/1600px-Okra_%28Abelmoschus_esculentus%29_fruit_opened.jpg?20131002223835">
 
 # Basic usage
 
