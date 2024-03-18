@@ -24,7 +24,7 @@ A sample introduction to the Okra focusing on whether gumbo should or shouldn't 
        label="Disney Parks: Tiana's Gumbo Recipe" 
        description="photo from Disneyparks Blog" 
        license="Restricted, need permission"
-       url="https://cdn1.parksmedia.wdprapps.disney.com/media/blog/wp-content/uploads/2023/10/24u89ty72uh4i2345ituh.jpg">
+       url="https://cdn1.parksmedia.wdprapps.disney.com/media/blog/wp-content/uploads/2023/10/i3u8tyuhi2l47yhil2b3ieyo8iuwr.jpg">
 
 # Okra's Many Origins
 As an orphaned plant there is no officially origin attributed to Okra, but there is a strong history of its presence and culturally significance in Asia and Africa. Lets start with Africa. <span data-mouseover-map-flyto="6.2622, 6.9865, 7"> Anambra</span> is said to be known for five different species of the okra plant. These species are are grown across the different localities in the state.some are said to be more slippery than the other according to the species. 
