@@ -10,6 +10,14 @@
 <param ve-entity eid="Q41264"> <!-- Dunkin Chen -->
 <param ve-entity eid="Q221092"> <!-- CC by-SA 4.0 Deed -->
 
+<param ve-image 
+       title="Abelmoschus Esculentus" 
+       url="https://www.archive.org/download/profdrthomsflora03thom/page/n643_w410"
+       label="Flora von Deutschland" 
+       description="Botanical illustration from Thomé's Natural History"
+       license="CC BY-SA 4.0"
+       region="-172,94,862,701">
+
 # Point of Interest
 A sample introduction to the Okra focusing on whether gumbo should or shouldn't have Okra in it. Using Disney's Princess and the Frog as an example
 <param ve-image 
