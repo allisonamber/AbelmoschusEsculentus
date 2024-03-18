@@ -3,23 +3,41 @@
 <param ve-config 
        title="Okra: How An Orphaned Plant Became the People's Vegetable"
        author="Allison Caban, Malek Charchour, and Mary Nriagu"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/7/73/Gator_Hunting_2011_in_Louisiana_05.jpg"
+       banner="https://upload.wikimedia.org/wikipedia/commons/3/32/Okra_%28Abelmoschus_esculentus%29_%283%29.jpg"
        layout="vertical">
 
-<!-- Entities discussed throughout the essay are typically defined before the essay text and
-     are thus available in all text.  Entity identifiers (QIDs) can be found in either
-     Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
+<param ve-entity eid="Q185372"> <!-- Abelmoschus Esculentus (Okra) -->
+<param ve-entity eid="Q41264"> <!-- Dunkin Chen -->
+<param ve-entity eid="Q221092"> <!-- CC by-SA 4.0 Deed -->
 
-# Sample visual essay
+# Point of Interest
+A sample introduction to the Okra focusing on whether gumbo should or shouldn't have Okra in it. Using Disney's Princess and the Frog as an example
+<param ve-image 
+       label="Disney Parks: Tiana's Gumbo Recipe" 
+       description="photo from Disneyparks Blog" 
+       license="Restricted, need permission"
+       url="https://cdn1.parksmedia.wdprapps.disney.com/media/blog/wp-content/uploads/2023/10/24u89ty72uh4i2345ituh.jpg">
 
-This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
-<param ve-image manifest="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Okra_%28Abelmoschus_esculentus%29_fruit_opened.jpg/1600px-Okra_%28Abelmoschus_esculentus%29_fruit_opened.jpg?20131002223835">
+# Okra's Many Origins
+As an orphaned plant there is no officially origin attributed to Okra, but there is a strong history of its presence and culturally significance in Asia and Africa.
+<span data-mouseover-map-flyto="6.2622, 6.9865, 7"> Anambra</span> is said to be known for five different species of the okra plant. These species are are grown across the different localities in the state.some are said to be more slippery than the other according to the specie. 
+<param ve-map
+	center="6.2622, 6.9865"
+	zoom="2"
+	Title="Okro in Anambra State, Nigeria"
+	show-labels>
+<param ve-map-marker
+	url="https://upload.wikimedia.org/wikipedia/commons/1/18/Okra_with_meat_and_fish.jpg"
+	coords="6.2622, 6.9865"
+	size="512, 328"
+	circle="true">
 
-# Basic usage
+When cultivated the plant looks like: <span data-mouseover-image-zoomto="280,110,2286,2009"> Okra </span>.
+<param ve-image
+       url="http://www.plantillustrations.org/illustration.php?id_illustration=315344&id_taxon=15580&mobile=0&SID=ank2srcdcd9ln7rnfs5a856t6b&language=English&thumbnails_selectable=0&selected_thumbnail=0&query_type=species&query_broad_or_restricted=broad&group=0&lay_out=0&uhd=0"
+       label="Okra Pic For Mary"
+       description="Showing a pic of a okra"
+       license="public domain">
 
 ## Image
 <param ve-image
