@@ -25,10 +25,10 @@ A sample introduction to the Okra focusing on whether gumbo should or shouldn't 
        description="photo from Whole Heartily" 
        license="Restricted, need permission"
        url="https://wholeheartily.files.wordpress.com/2020/10/tianasgumboss_02.jpg"
-       region="146,-177,1085,1163">
+       region="28,-269,1264,1345">
 
 # Okra's Many Origins
-As an orphaned plant there is no officially origin attributed to Okra, but there is a strong history of its presence and culturally significance in Asia and Africa. Lets start with Africa. <span data-mouseover-map-flyto="6.2622, 6.9865, 7"> Anambra</span> is said to be known for five different species of the okra plant. These species are are grown across the different localities in the state.some are said to be more slippery than the other according to the species. 
+MARY PAR. 1: As an orphaned plant there is no officially origin attributed to Okra, but there is a strong history of its presence and culturally significance in Asia and Africa. Lets start with Africa. <span data-mouseover-map-flyto="6.2622, 6.9865, 7"> Anambra</span> is said to be known for five different species of the okra plant. These species are are grown across the different localities in the state.some are said to be more slippery than the other according to the species. 
 <param ve-map
 	center="6.2622, 6.9865"
 	zoom="2"
@@ -40,24 +40,41 @@ As an orphaned plant there is no officially origin attributed to Okra, but there
 	size="512, 328"
 	circle="true">
 
-When cultivated the plant looks like: <span data-mouseover-image-zoomto="280,110,2286,2009"> Okra </span>.
+MARY PAR. 2: When cultivated the plant looks like: <span data-mouseover-image-zoomto="280,110,2286,2009"> Okra </span>.
 <param ve-image
-       url="http://www.plantillustrations.org/illustration.php?id_illustration=315344&id_taxon=15580&mobile=0&SID=ank2srcdcd9ln7rnfs5a856t6b&language=English&thumbnails_selectable=0&selected_thumbnail=0&query_type=species&query_broad_or_restricted=broad&group=0&lay_out=0&uhd=0"
-       label="Okra Pic For Mary"
-       description="Showing a pic of a okra"
+       url="http://www.plantillustrations.org/ILLUSTRATIONS_FULL_SIZE_/315344.jpg"
+       label="Hibiscus esculentus L."
+       description="Botanical Illustration by Société Nationale d'Horticulture de France"
        license="public domain">
+       
+MARY PAR. 3: According to Chris Smith (2019), <span data-mouseover-map-flyto="7.4333, 3.2833, 7"> Igbo Ora</span> which is a city  located in Ibarapa  central of Oyo state  has a history of multiple twins. History has it that this is as a result of numerous take of Okra in this part of the south western Nigeria.
+<param ve-map
+	center="7.4333, 3.2833"
+	zoom="2"
+	Title="Oloronbo, Ibarapa Central, Oyo State, Nigeria,"
+	show-labels>
+<param ve-map-marker
+	url="https://upload.wikimedia.org/wikipedia/commons/4/43/Okra_seafood_stew.jpg"
+	coords="7.4333, 3.2833"
+	size="512, 328"
+	circle="true">
 
-## Image
-<param ve-image
-       manifest="https://upload.wikimedia.org/wikipedia/commons/b/b6/Okra_%28Abelmoschus_esculentus%29_fruit_opened.jpg">
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
-dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
-20th century after the earring worn by the girl portrayed there.[^1]
+## Okra in North Africa
 <param ve-image 
        label="Abelmoschus Esculentus flower" 
-       description="photo from wikimedia" 
+       description="photo from Wikimedia" 
        license="public domain"
 url="https://upload.wikimedia.org/wikipedia/commons/8/85/Okra_or_Lady_Finger_flower_%28%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-_%E0%A6%A2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%81%E0%A6%A1%E0%A6%BC%E0%A6%B6%29_%3B_scientific_name-_Abelmoschus_esculentus.jpg">
+MALEK PAR. 1: This paragraph with follow Mary's transitioning with a focus on Northern Africa.
+<param ve-map
+	center="Q27230"
+	zoom="9.5" 
+	prefer-geojson>
+<param ve-map-marker
+	url="https://upload.wikimedia.org/wikipedia/commons/b/b6/Du_bamia_avec_du_riz_en_f%C3%A9vrier_2022.jpg"
+	coords="36.8790882, 10.3276780"
+	size="512, 328" 
+	circle="true">
 
 ## Map
 
