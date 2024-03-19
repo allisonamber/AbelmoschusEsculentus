@@ -68,7 +68,7 @@ MARY PAR. 4: According to Chris Smith (2019), <span data-mouseover-map-flyto="7.
 	circle="true">
  
 ## Okra in North Africa
-MALEK PAR. 1: La Marsa (also known as El Marsa) is a suburb of Tunis, is a coastal town of approximately 100,000 people. It is famous in Tunisia for its regional dish marqet gnaouia, a spicy tomato based stew eaten with bread that pairs small okra with some sort of protein.
+MALEK PAR. 1: <span data-mouseover-map-flyto="36.89054761602349, 10.322687034859703"> La Marsa</span> (also known as El Marsa) is a suburb of Tunis, is a coastal town of approximately 100,000 people. It is famous in Tunisia for its regional dish marqet gnaouia, a spicy tomato based stew eaten with bread that pairs small okra with some sort of protein.
 <param ve-map
 	center="36.89054761602349, 10.322687034859703"
 	zoom="5"
@@ -93,7 +93,7 @@ MALEK PAR. 2: Sample text.
        region="-583,1,4167,3988">
 
 ## Follow the Food
-ALLIE PAR. 1: Follow the slave trade across the Atlantic and venture into the Antebellum south.
+ALLIE PAR. 1: Follow the slave trade across the Atlantic and venture into the Antebellum south. <span data-mouseover-map-flyto="30.96, -91.401"> Louisiana</span> is the hot spot.
 <param ve-map-layer geojson
 	url="https://raw.githubusercontent.com/allisonamber/AbelmoschusEsculentus/main/americansouthoverlay.json"
 	show-labels
