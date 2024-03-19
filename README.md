@@ -85,20 +85,20 @@ MALEK PAR. 2: Sample text.
        region="-583,1,4167,3988">
 
 ## Follow the Food
-ALLIE PAR. 1: Follow the slave trade across the Atlantic and venture in the Antebellum south.
+ALLIE PAR. 1: Follow the slave trade across the Atlantic and venture into the Antebellum south.
+<param ve-map
+	center="33.78640778152119, -89.82719521797493"
+	zoom="5"
+	title="US"
+	prefer-geojson>
 <param ve-map-layer geojson
-	url="https://raw.githubusercontent.com/allisonamber/AbelmoschusEsculentus/main/ALLIEAMERICANSOUTHMAPOVERLAY"
+	url="https://raw.githubusercontent.com/emkayyou/essays/main/codetest.json"
 	show-labels
 	stroke-width="0">
-<param ve-map
-       center="Q1588"
-       zoom="5"
-       Title="US"
-       prefer-geojson>
 <param ve-map-marker
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Gumbo_-_7487791838.jpg/640px-Gumbo_-_7487791838.jpg"
 	coords="30.96, -91.401"
-	size="512, 328" 
+	size="512, 328"
 	circle="true">
 
 # References
