@@ -92,7 +92,7 @@ ALLIE PAR. 1: Follow the slave trade across the Atlantic and venture into the An
 	title="US"
 	prefer-geojson>
 <param ve-map-layer geojson
-	url="https://raw.githubusercontent.com/allisonamber/AbelmoschusEsculentus/main/ALLIEAMERICANSOUTHMAPOVERLAY"
+	url="https://raw.githubusercontent.com/allisonamber/AbelmoschusEsculentus/main/americansouthoverlay.json"
 	show-labels
 	stroke-width="0">
 <param ve-map-marker
