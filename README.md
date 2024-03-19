@@ -76,7 +76,6 @@ MALEK PAR. 1: This paragraph with follow Mary's transitioning with a focus on No
 	size="512, 328" 
 	circle="true">
 
-## Okra in North Africa Cont.
 MALEK PAR. 2: Sample text.
 <param ve-image
 	label="Abelmoschus moschatus Medik" 
@@ -86,7 +85,7 @@ MALEK PAR. 2: Sample text.
        region="-583,1,4167,3988">
 
 ## Follow the Food
-ALLIE PAR. 1: Follow the slave trade across the Atlantic and venture in the Antebellum south. <span data-mouseover-map-flyto="29.9461665, -90.0784417, 10"> NOLA </span>
+ALLIE PAR. 1: Follow the slave trade across the Atlantic and venture in the Antebellum south. <span data-mouseover-map-flyto="29.9511, 90.0715"> NOLA </span>
 <param ve-map
        center="35.299, -89.78"
        zoom="2"
@@ -94,7 +93,7 @@ ALLIE PAR. 1: Follow the slave trade across the Atlantic and venture in the Ante
        prefer-geojson>
 <param ve-map-marker
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Gumbo_-_7487791838.jpg/640px-Gumbo_-_7487791838.jpg"
-	coords="29.9296054, -90.0844053"
+	coords="38.8895, 97.5391"
 	size="512, 328" 
 	circle="true">
 <param ve-map-layer geojson
