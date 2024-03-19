@@ -96,7 +96,7 @@ ALLIE PAR. 1: Follow the slave trade across the Atlantic and venture in the Ante
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Gumbo_-_7487791838.jpg/640px-Gumbo_-_7487791838.jpg"
 	coords="29.9296054, -90.0844053"
 	size="512, 328" 
-	heart="true">
+	circle="true">
 <param ve-map-layer geojson
 	url="https://raw.githubusercontent.com/allisonamber/AbelmoschusEsculentus/main/ALLIEAMERICANSOUTHMAPOVERLAY"
 	show-labels
