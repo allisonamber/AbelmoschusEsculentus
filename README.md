@@ -75,6 +75,7 @@ MALEK PAR. 1: This paragraph with follow Mary's transitioning with a focus on No
 	coords="36.8790882, 10.3276780"
 	size="512, 328" 
 	circle="true">
+ 
 MALEK PAR. 2: Sample text.
 <param ve-image
 	label="Abelmoschus moschatus Medik" 
@@ -82,6 +83,7 @@ MALEK PAR. 2: Sample text.
        license="CCBY" 
        url="https://upload.wikimedia.org/wikipedia/commons/0/0b/Abelmoschus_moschatus_Medik._%28AM_AK28139%29.jpg"
        region="-583,1,4167,3988">
+       
 MARY PAR. 4: Not sure what this image is about.
 <param ve-image 
        label="Abelmoschus Esculentus flower" 
