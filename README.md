@@ -89,14 +89,14 @@ MALEK PAR. 2: Sample text.
 ALLIE PAR. 1: Follow the slave trade across the Atlantic and venture in the Antebellum south. 
 <param ve-map
        center="Q30"
-       zoom="7"
+       zoom="5"
        Title="American South"
        prefer-geojson>
 <param ve-map-marker
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Gumbo_-_7487791838.jpg/640px-Gumbo_-_7487791838.jpg"
 	coords="29.9296054, -90.0844053"
 	size="512, 328" 
-	circle="true">
+	heart="true">
 <param ve-map-layer geojson
 	url="https://raw.githubusercontent.com/allisonamber/AbelmoschusEsculentus/main/ALLIEAMERICANSOUTHMAPOVERLAY"
 	show-labels
