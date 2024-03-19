@@ -61,6 +61,15 @@ MARY PAR. 3: According to Chris Smith (2019), <span data-mouseover-map-flyto="7.
  
 ## Okra in North Africa
 MALEK PAR. 1: This paragraph with follow Mary's transitioning with a focus on North Africa. <span data-mouseover-map-flyto="36.8790882, 10.3276780"> Look here</span> 
+<param ve-map
+	center="36.89054761602349, 10.322687034859703"
+	zoom="5"
+	Title="La Marsa Map"
+	prefer-geojson>
+<param ve-map-layer geojson
+	url="https://github.com/charchmalrba7/Hibiscus-Esculentus/blob/bac965c0a20476ef4094dd30c6e570be48a3af24/TestingMap.json"
+	show-labels
+	stroke-width="0">
 <param ve-map-marker
 	url="https://upload.wikimedia.org/wikipedia/commons/b/b6/Du_bamia_avec_du_riz_en_f%C3%A9vrier_2022.jpg"
 	coords="36.8790882, 10.3276780"
