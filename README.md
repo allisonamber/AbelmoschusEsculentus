@@ -94,6 +94,11 @@ MALEK PAR. 2: Sample text.
 
 ## Follow the Food
 ALLIE PAR. 1: Follow the slave trade across the Atlantic and venture into the Antebellum south. <span data-mouseover-map-flyto="30.96, -91.401"> Louisiana</span> is the hot spot.
+<param ve-map
+	center="30.96, -91.401"
+	zoom="5"
+	Title="Southern States"
+	prefer-geojson>
 <param ve-map-layer geojson
 	url="https://raw.githubusercontent.com/allisonamber/AbelmoschusEsculentus/main/americansouthoverlay.json"
 	show-labels
