@@ -60,12 +60,7 @@ MARY PAR. 3: According to Chris Smith (2019), <span data-mouseover-map-flyto="7.
 	circle="true">
  
 ## Okra in North Africa
-MALEK PAR. 1: This paragraph with follow Mary's transitioning with a focus on North Africa. <span data-mouseover-map-flyto="7.4333, 3.2833, 7"> Look here</span> 
-<param ve-map
-	center="7.4333, 3.2833"
-	zoom="2"
-	Title="Oloronbo, Ibarapa Central, Oyo State, Nigeria,"
-	show-labels>
+MALEK PAR. 1: This paragraph with follow Mary's transitioning with a focus on North Africa. <span data-mouseover-map-flyto="36.8790882, 10.3276780"> Look here</span> 
 <param ve-map-marker
 	url="https://upload.wikimedia.org/wikipedia/commons/b/b6/Du_bamia_avec_du_riz_en_f%C3%A9vrier_2022.jpg"
 	coords="36.8790882, 10.3276780"
