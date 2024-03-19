@@ -25,7 +25,7 @@ A sample introduction to the Okra focusing on whether gumbo should or shouldn't 
        description="photo from Whole Heartily" 
        license="Restricted, need permission"
        url="https://wholeheartily.files.wordpress.com/2020/10/tianasgumboss_02.jpg"
-       region="28,-269,1264,1345">
+       region="1,-156,1246,1121">
 
 # Okra's Many Origins
 MARY PAR. 1: As an orphaned plant there is no officially origin attributed to Okra, but there is a strong history of its presence and culturally significance in Asia and Africa. Lets start with Africa. <span data-mouseover-map-flyto="6.2622, 6.9865, 7"> Anambra</span> is said to be known for five different species of the okra plant. These species are are grown across the different localities in the state.some are said to be more slippery than the other according to the species. 
