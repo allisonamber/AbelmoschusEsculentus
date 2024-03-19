@@ -90,7 +90,7 @@ MALEK PAR. 2: Sample text.
        description="29068 Abelmoschus moschatus Medike" 
        license="CCBY" 
        url="https://upload.wikimedia.org/wikipedia/commons/0/0b/Abelmoschus_moschatus_Medik._%28AM_AK28139%29.jpg"
-       region="-583,1,4167,3988">
+       region="316,269,2412,2171">
 
 ## Follow the Food
 ALLIE PAR. 1: Follow the slave trade across the Atlantic and venture into the Antebellum south. <span data-mouseover-map-flyto="30.96, -91.401"> Louisiana</span> is the hot spot.
