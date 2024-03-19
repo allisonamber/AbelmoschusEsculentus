@@ -86,10 +86,10 @@ MALEK PAR. 2: Sample text.
        region="-583,1,4167,3988">
 
 ## Follow the Food
-ALLIE PAR. 1: Follow the slave trade across the Atlantic and venture in the Antebellum south. 
+ALLIE PAR. 1: Follow the slave trade across the Atlantic and venture in the Antebellum south. <span data-mouseover-map-flyto="29.9461665, -90.0784417, 10"> NOLA </span>
 <param ve-map
        center="Q30"
-       zoom="5"
+       zoom="2"
        Title="American South"
        prefer-geojson>
 <param ve-map-marker
@@ -101,7 +101,7 @@ ALLIE PAR. 1: Follow the slave trade across the Atlantic and venture in the Ante
 	url="https://raw.githubusercontent.com/allisonamber/AbelmoschusEsculentus/main/ALLIEAMERICANSOUTHMAPOVERLAY"
 	show-labels
 	stroke-width="0">
- 
+
 # References
 
 [^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
