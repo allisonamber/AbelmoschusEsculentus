@@ -42,10 +42,10 @@ MARY PAR. 1: As an orphaned plant there is no officially origin attributed to Ok
 
 MARY PAR. 2: When cultivated the plant looks like:
 <param ve-image
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mozambican_Men_and_Women_Selling_Okra_and_other_vegetables.jpg/640px-Mozambican_Men_and_Women_Selling_Okra_and_other_vegetables.jpg"
        label="Mozambican Men and Women Selling Okra and Other Vegetables"
        description="Photo by Elemalema"
-       license="public domain">
+       license="public domain"
+	url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mozambican_Men_and_Women_Selling_Okra_and_other_vegetables.jpg/640px-Mozambican_Men_and_Women_Selling_Okra_and_other_vegetables.jpg"
        
 MARY PAR. 3: According to Chris Smith (2019), <span data-mouseover-map-flyto="7.4333, 3.2833, 7"> Igbo Ora</span> which is a city  located in Ibarapa  central of Oyo state  has a history of multiple twins. History has it that this is as a result of numerous take of Okra in this part of the south western Nigeria.
 <param ve-map
@@ -58,13 +58,13 @@ MARY PAR. 3: According to Chris Smith (2019), <span data-mouseover-map-flyto="7.
 	coords="7.4333, 3.2833"
 	size="512, 328"
 	circle="true">
-
-## Okra in North Africa
 <param ve-image 
        label="Abelmoschus Esculentus flower" 
        description="photo from Wikimedia" 
        license="public domain"
 url="https://upload.wikimedia.org/wikipedia/commons/8/85/Okra_or_Lady_Finger_flower_%28%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-_%E0%A6%A2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%81%E0%A6%A1%E0%A6%BC%E0%A6%B6%29_%3B_scientific_name-_Abelmoschus_esculentus.jpg">
+
+## Okra in North Africa
 MALEK PAR. 1: This paragraph with follow Mary's transitioning with a focus on Northern Africa.
 <param ve-map
 	center="Q27230"
@@ -76,19 +76,18 @@ MALEK PAR. 1: This paragraph with follow Mary's transitioning with a focus on No
 	size="512, 328" 
 	circle="true">
 
-## Map
+## Okra in North Africa Cont.
+MALEK PAR. 2: Sample text.
+<param ve-image
+	label="Abelmoschus moschatus Medik" 
+       description="29068 Abelmoschus moschatus Medike" 
+       license="CCBY" 
+       url="https://upload.wikimedia.org/wikipedia/commons/0/0b/Abelmoschus_moschatus_Medik._%28AM_AK28139%29.jpg"
+       region="-583,1,4167,3988">
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
+## Follow the Food
+ALLIE PAR. 1: Follow the slave trade across the Atlantic and venture in the Antebellum south. 
 
-## Multiple viewers
-
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
 
 # References
 
