@@ -40,13 +40,12 @@ MARY PAR. 1: As an orphaned plant there is no officially origin attributed to Ok
 	size="512, 328"
 	circle="true">
 
-MARY PAR. 2: When cultivated the plant looks like: <span data-mouseover-image-zoomto="280,110,2286,2009"> Okra </span>
+MARY PAR. 2: When cultivated the plant looks like: <span data-mouseover-image-zoomto="58,13,515,463"> Okra </span>
 <param ve-image
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mozambican_Men_and_Women_Selling_Okra_and_other_vegetables.jpg/640px-Mozambican_Men_and_Women_Selling_Okra_and_other_vegetables.jpg"
        label="Mozambican Men and Women Selling Okra and Other Vegetables"
        description="Photo by Elemalema"
-       license="public domain"
-       region="58,13,515,463">
+       license="public domain">
        
 MARY PAR. 3: According to Chris Smith (2019), <span data-mouseover-map-flyto="7.4333, 3.2833, 7"> Igbo Ora</span> which is a city  located in Ibarapa  central of Oyo state  has a history of multiple twins. History has it that this is as a result of numerous take of Okra in this part of the south western Nigeria.
 <param ve-map
