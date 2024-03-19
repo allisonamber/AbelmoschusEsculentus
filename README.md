@@ -88,7 +88,7 @@ MALEK PAR. 2: Sample text.
 ## Follow the Food
 ALLIE PAR. 1: Follow the slave trade across the Atlantic and venture in the Antebellum south. <span data-mouseover-map-flyto="29.9461665, -90.0784417, 10"> NOLA </span>
 <param ve-map
-       center="Q30"
+       center="35.299, -89.78"
        zoom="2"
        Title="American South"
        prefer-geojson>
