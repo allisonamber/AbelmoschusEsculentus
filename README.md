@@ -45,9 +45,17 @@ MARY PAR. 2: When cultivated the plant looks like:
        label="Mozambican Men and Women Selling Okra and Other Vegetables"
        description="Photo by Elemalema"
        license="public domain"
-	url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mozambican_Men_and_Women_Selling_Okra_and_other_vegetables.jpg/640px-Mozambican_Men_and_Women_Selling_Okra_and_other_vegetables.jpg"
+	url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mozambican_Men_and_Women_Selling_Okra_and_other_vegetables.jpg/640px-Mozambican_Men_and_Women_Selling_Okra_and_other_vegetables.jpg">
+
+MARY PAR. 3: Flower close up.
+<param ve-image 
+       label="Abelmoschus Esculentus flower" 
+       description="photo from Wikimedia" 
+       license="public domain"
+	region="70,479,1940,1746"
+url="https://upload.wikimedia.org/wikipedia/commons/8/85/Okra_or_Lady_Finger_flower_%28%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-_%E0%A6%A2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%81%E0%A6%A1%E0%A6%BC%E0%A6%B6%29_%3B_scientific_name-_Abelmoschus_esculentus.jpg">
        
-MARY PAR. 3: According to Chris Smith (2019), <span data-mouseover-map-flyto="7.4333, 3.2833, 7"> Igbo Ora</span> which is a city  located in Ibarapa  central of Oyo state  has a history of multiple twins. History has it that this is as a result of numerous take of Okra in this part of the south western Nigeria.
+MARY PAR. 4: According to Chris Smith (2019), <span data-mouseover-map-flyto="7.4333, 3.2833, 7"> Igbo Ora</span> which is a city  located in Ibarapa  central of Oyo state  has a history of multiple twins. History has it that this is as a result of numerous take of Okra in this part of the south western Nigeria.
 <param ve-map
 	center="7.4333, 3.2833"
 	zoom="2"
@@ -60,7 +68,7 @@ MARY PAR. 3: According to Chris Smith (2019), <span data-mouseover-map-flyto="7.
 	circle="true">
  
 ## Okra in North Africa
-MALEK PAR. 1: This paragraph with follow Mary's transitioning with a focus on North Africa.
+MALEK PAR. 1: La Marsa (also known as El Marsa) is a suburb of Tunis, is a coastal town of approximately 100,000 people. It is famous in Tunisia for its regional dish marqet gnaouia, a spicy tomato based stew eaten with bread that pairs small okra with some sort of protein.
 <param ve-map
 	center="36.89054761602349, 10.322687034859703"
 	zoom="5"
@@ -83,13 +91,6 @@ MALEK PAR. 2: Sample text.
        license="CCBY" 
        url="https://upload.wikimedia.org/wikipedia/commons/0/0b/Abelmoschus_moschatus_Medik._%28AM_AK28139%29.jpg"
        region="-583,1,4167,3988">
-       
-MARY PAR. 4: Not sure what this image is about.
-<param ve-image 
-       label="Abelmoschus Esculentus flower" 
-       description="photo from Wikimedia" 
-       license="public domain"
-url="https://upload.wikimedia.org/wikipedia/commons/8/85/Okra_or_Lady_Finger_flower_%28%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-_%E0%A6%A2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%81%E0%A6%A1%E0%A6%BC%E0%A6%B6%29_%3B_scientific_name-_Abelmoschus_esculentus.jpg">
 
 ## Follow the Food
 ALLIE PAR. 1: Follow the slave trade across the Atlantic and venture into the Antebellum south.
