@@ -87,11 +87,6 @@ url="https://upload.wikimedia.org/wikipedia/commons/8/85/Okra_or_Lady_Finger_flo
 
 ## Follow the Food
 ALLIE PAR. 1: Follow the slave trade across the Atlantic and venture into the Antebellum south.
-<param ve-map
-	center="33.78640778152119, -89.82719521797493"
-	zoom="5"
-	title="US"
-	prefer-geojson>
 <param ve-map-layer geojson
 	url="https://raw.githubusercontent.com/allisonamber/AbelmoschusEsculentus/main/americansouthoverlay.json"
 	show-labels
