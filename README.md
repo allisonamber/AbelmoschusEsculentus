@@ -60,7 +60,7 @@ MARY PAR. 3: According to Chris Smith (2019), <span data-mouseover-map-flyto="7.
 	circle="true">
  
 ## Okra in North Africa
-MALEK PAR. 1: This paragraph with follow Mary's transitioning with a focus on North Africa. <span data-mouseover-map-flyto="36.8790882, 10.3276780"> Look here</span> 
+MALEK PAR. 1: This paragraph with follow Mary's transitioning with a focus on North Africa.
 <param ve-map
 	center="36.89054761602349, 10.322687034859703"
 	zoom="5"
