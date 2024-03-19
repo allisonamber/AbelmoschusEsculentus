@@ -93,7 +93,7 @@ ALLIE PAR. 1: Follow the slave trade across the Atlantic and venture in the Ante
 <param ve-map
        center="Q1588"
        zoom="5"
-       Title="American South"
+       Title="US"
        prefer-geojson>
 <param ve-map-marker
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Gumbo_-_7487791838.jpg/640px-Gumbo_-_7487791838.jpg"
