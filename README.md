@@ -58,24 +58,19 @@ MARY PAR. 3: According to Chris Smith (2019), <span data-mouseover-map-flyto="7.
 	coords="7.4333, 3.2833"
 	size="512, 328"
 	circle="true">
-<param ve-image 
-       label="Abelmoschus Esculentus flower" 
-       description="photo from Wikimedia" 
-       license="public domain"
-url="https://upload.wikimedia.org/wikipedia/commons/8/85/Okra_or_Lady_Finger_flower_%28%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-_%E0%A6%A2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%81%E0%A6%A1%E0%A6%BC%E0%A6%B6%29_%3B_scientific_name-_Abelmoschus_esculentus.jpg">
-
+ 
 ## Okra in North Africa
-MALEK PAR. 1: This paragraph with follow Mary's transitioning with a focus on Northern Africa.
+MALEK PAR. 1: This paragraph with follow Mary's transitioning with a focus on North Africa. <span data-mouseover-map-flyto="7.4333, 3.2833, 7"> Look here</span> 
 <param ve-map
-	center="Q27230"
-	zoom="9.5" 
-	prefer-geojson>
+	center="7.4333, 3.2833"
+	zoom="2"
+	Title="Oloronbo, Ibarapa Central, Oyo State, Nigeria,"
+	show-labels>
 <param ve-map-marker
 	url="https://upload.wikimedia.org/wikipedia/commons/b/b6/Du_bamia_avec_du_riz_en_f%C3%A9vrier_2022.jpg"
 	coords="36.8790882, 10.3276780"
 	size="512, 328" 
 	circle="true">
-
 MALEK PAR. 2: Sample text.
 <param ve-image
 	label="Abelmoschus moschatus Medik" 
@@ -83,6 +78,12 @@ MALEK PAR. 2: Sample text.
        license="CCBY" 
        url="https://upload.wikimedia.org/wikipedia/commons/0/0b/Abelmoschus_moschatus_Medik._%28AM_AK28139%29.jpg"
        region="-583,1,4167,3988">
+MARY PAR. 4: Not sure what this image is about.
+<param ve-image 
+       label="Abelmoschus Esculentus flower" 
+       description="photo from Wikimedia" 
+       license="public domain"
+url="https://upload.wikimedia.org/wikipedia/commons/8/85/Okra_or_Lady_Finger_flower_%28%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-_%E0%A6%A2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%81%E0%A6%A1%E0%A6%BC%E0%A6%B6%29_%3B_scientific_name-_Abelmoschus_esculentus.jpg">
 
 ## Follow the Food
 ALLIE PAR. 1: Follow the slave trade across the Atlantic and venture into the Antebellum south.
