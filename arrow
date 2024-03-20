@@ -1,37 +1,22 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Map with Arrow Example</title>
-    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
-    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
-    <style>
-        #map { height: 400px; }
-    </style>
-</head>
-<body>
-    <div id="map"></div>
-
-    <script>
-        var map = L.map('map').setView([38.8895, -97.5391], 4);
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-        }).addTo(map);
-
-        // Define coordinates for the arrow line
-        var arrowCoordinates = [
-            [38.8895, -97.5391],
-            [38.8895 + 0.1, -97.5391 + 0.1] // Example offset
-        ];
-
-        // Create a polyline with arrow markers
-        L.polyline(arrowCoordinates, { color: 'red' }).addTo(map).setText('↓', { repeat: true, offset: 10 });
-
-        // Add a marker at the end of the arrow
-        L.marker([38.8895 + 0.1, -97.5391 + 0.1]).addTo(map)
-            .bindPopup('End of the arrow')
-            .openPopup();
-    </script>
-</body>
-</html>
+Allie Par. 4: Follow the slave trade across the Atlantic and venture into the Antebellum south. <span data-mouseover-map-flyto="30.96, -91.401"> Louisiana</span> is the hot spot.
+<param ve-map
+	center="30.96, -91.401"
+	zoom="5"
+	Title="Southern States"
+	prefer-geojson>
+<param ve-map-layer geojson
+	url="https://raw.githubusercontent.com/allisonamber/AbelmoschusEsculentus/main/americansouthoverlay.json"
+	show-labels
+	stroke-width="0">
+<param ve-map-marker
+	url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Gumbo_-_7487791838.jpg/640px-Gumbo_-_7487791838.jpg"
+	coords="30.96, -91.401"
+	size="512, 328"
+	circle="true">
+<param ve-arrowcoordinates
+    coords="38.8895, -97.5391"
+    coords="38.8895 + 0.1, -97.5391 + 0.1">
+<param ve-polyline-arrowcoordinates-addTo(map)
+    color="red">
+<param ve-map-marker
+   coords="38.8895 + 0.1, -97.5391 + 0.1.addTo(map)"
