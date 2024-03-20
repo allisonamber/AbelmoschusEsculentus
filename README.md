@@ -103,7 +103,7 @@ Allie Par. 3: Follow the slave trade across the Atlantic and venture into the An
 	url="https://raw.githubusercontent.com/allisonamber/AbelmoschusEsculentus/main/americansouthoverlay.json"
 	show-labels
 	stroke-width="0">
-<param ve-map-layer geojson
+<param ve-map-marker geojson
 	url="https://raw.githubusercontent.com/allisonamber/AbelmoschusEsculentus/main/arrows.json"
 	show-labels
 	stroke-width="0">
