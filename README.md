@@ -26,8 +26,15 @@ Allie Par. 1: sample introduction to the Okra focusing on whether gumbo should o
        license="Restricted, need permission"
        url="https://wholeheartily.files.wordpress.com/2020/10/tianasgumboss_02.jpg"
        region="1,-156,1246,1121">
+
+Allie Par. 2:
+<param ve-image
+	label="Tiana's Gumbo Close-up"
+ 	description="film capture"
+  	license="Restricted"
+   	url="https://64.media.tumblr.com/4132d9e844e0a48974f3624a3aab8a26/tumblr_nrwxbht0tJ1uqe0l4o1_400.gifv">
        
-Allie Par. 2: Flower close up.
+Allie Par. 3: Flower close up.
 <param ve-image 
        label="Abelmoschus Esculentus flower" 
        description="photo from Wikimedia" 
@@ -93,7 +100,7 @@ Malek Par. 2: Sample text.
        region="316,269,2412,2171">
 
 ## Follow the Food
-Allie Par. 3: Follow the slave trade across the Atlantic and venture into the Antebellum south. <span data-mouseover-map-flyto="30.96, -91.401"> Louisiana</span> is the hot spot.
+Allie Par. 4: Follow the slave trade across the Atlantic and venture into the Antebellum south. <span data-mouseover-map-flyto="30.96, -91.401"> Louisiana</span> is the hot spot.
 <param ve-map
 	center="30.96, -91.401"
 	zoom="5"
@@ -109,7 +116,7 @@ Allie Par. 3: Follow the slave trade across the Atlantic and venture into the An
 	size="512, 328"
 	circle="true">
 
-Allie Par. 4: Okra as a staple ration on slave ships to keep enslaved peoples alive, common enslaved peoples private gardens and businesses, a reminder of home
+Allie Par. 5: Okra as a staple ration on slave ships to keep enslaved peoples alive, common enslaved peoples private gardens and businesses, a reminder of home
 <param ve-image
 	label="Michael Twitty: chef and food historian"
  	description="Photo by Jonathan M. Lewis"
