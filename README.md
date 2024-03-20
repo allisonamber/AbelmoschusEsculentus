@@ -19,23 +19,15 @@
        region="-172,94,862,701">
 
 # Point of Interest
-Allie Par. 1: sample introduction to the Okra focusing on whether gumbo should or shouldn't have Okra in it. Using Disney's Princess and the Frog as an example
+Allie Par. 1: sample introduction to the Okra focusing on whether gumbo should or shouldn't have Okra in it. Using Disney's Princess and the Frog as an example. Expand on gumbo as a cultural significant food in Black southern communities. Twitty, "we had gumbo for every season and every occasion. meatless gumbos for Lent, gumbos for duck, crawfish, shrimp, oysters, whatever was in season; filét gumbo when there was no okra, okra gumbo when there was no filét--gumbos for weddings, for funerals [...] it told you what time it was" (Twitty 196).
 <param ve-image 
        label="Disney's Princess Tiana's Gumbo" 
        description="photo from Whole Heartily" 
        license="Restricted, need permission"
        url="https://wholeheartily.files.wordpress.com/2020/10/tianasgumboss_02.jpg"
        region="1,-156,1246,1121">
-
-Allie Par. 2: sample text
-<param ve-image
-	label="Tiana's Gumbo Close-up"
- 	description="film capture"
-  	license="Restricted"
-   	url="https://64.media.tumblr.com/4132d9e844e0a48974f3624a3aab8a26/tumblr_nrwxbht0tJ1uqe0l4o1_400.gifv"
-	region="-21,-5,314,283">
   
-Allie Par. 3: Flower close up.
+Allie Par. 2: Flower close up.
 <param ve-image 
        label="Abelmoschus Esculentus flower" 
        description="photo from Wikimedia" 
@@ -88,7 +80,7 @@ Malek Par. 1: <span data-mouseover-map-flyto="36.89054761602349, 10.322687034859
 	stroke-width="0">
 <param ve-map-marker
 	url="https://upload.wikimedia.org/wikipedia/commons/b/b6/Du_bamia_avec_du_riz_en_f%C3%A9vrier_2022.jpg"
-	coords="36.8790882, 10.3276780"
+	coords="36.89054761602349, 10.322687034859703"
 	size="512, 328" 
 	circle="true">
  
@@ -101,7 +93,7 @@ Malek Par. 2: Sample text.
        region="316,269,2412,2171">
 
 ## Follow the Food
-Allie Par. 4: Follow the slave trade across the Atlantic and venture into the Antebellum south. <span data-mouseover-map-flyto="30.96, -91.401"> Louisiana</span> is the hot spot.
+Allie Par. 3: Follow the slave trade across the Atlantic and venture into the Antebellum south. <span data-mouseover-map-flyto="30.96, -91.401"> Louisiana</span> is the hot spot.
 <param ve-map
 	center="30.96, -91.401"
 	zoom="5"
@@ -117,7 +109,7 @@ Allie Par. 4: Follow the slave trade across the Atlantic and venture into the An
 	size="512, 328"
 	circle="true">
 
-Allie Par. 5: Okra as a staple ration on slave ships to keep enslaved peoples alive, common enslaved peoples private gardens and businesses, a reminder of home
+Allie Par. 4: Okra as a staple ration on slave ships to keep enslaved peoples alive, common enslaved peoples private gardens and businesses, a reminder of home. Twitty states, "the Old South is a place where people use food to tell themselves who they are, and to tell stories about where they've been" (Twitty xii). And "In cooking, the sttyle of southern food is more verb than adjective; it is the exercise of specific histories, not just the result" (8).
 <param ve-image
 	label="Michael Twitty: chef and food historian"
  	description="Photo by Jonathan M. Lewis"
