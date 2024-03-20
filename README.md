@@ -93,7 +93,7 @@ Malek Par. 2: Sample text.
        region="316,269,2412,2171">
 
 ## Follow the Food
-Allie Par. 3: Follow the slave trade across the Atlantic and venture into the Antebellum south. <span data-mouseover-map-flyto="30.0364,-90.4134"> Louisiana</span> is the hot spot.
+Allie Par. 3: Follow the slave trade across the <span data-mouseover-map-flyto=16.362,-1.538"> Atlantic</span> and venture into the Antebellum south. <span data-mouseover-map-flyto="30.0364,-90.4134"> Louisiana</span> is the hot spot.
 <param ve-map
 	center="30.96, -91.401"
 	zoom="5"
