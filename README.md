@@ -103,6 +103,10 @@ Allie Par. 3: Follow the slave trade across the Atlantic and venture into the An
 	url="https://raw.githubusercontent.com/allisonamber/AbelmoschusEsculentus/main/americansouthoverlay.json"
 	show-labels
 	stroke-width="0">
+ <param ve-map-layer geojson
+	 url="https://raw.githubusercontent.com/allisonamber/AbelmoschusEsculentus/main/arrow.json"
+	 show-labels
+	 stroke-width="2">
 <param ve-map-marker
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Gumbo_-_7487791838.jpg/640px-Gumbo_-_7487791838.jpg"
 	coords="30.96, -91.401"
