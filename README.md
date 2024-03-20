@@ -48,7 +48,7 @@ Mary Par. 1: As an orphaned plant there is no officially origin attributed to Ok
 	size="512, 328"
 	circle="true">
 
-Mary Par. 2: When cultivated the plant looks like:
+Mary Par. 2: When cultivated:
 <param ve-image
        label="Mozambican Men and Women Selling Okra and Other Vegetables"
        description="Photo by Elemalema"
