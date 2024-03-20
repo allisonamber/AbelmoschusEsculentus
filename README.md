@@ -93,7 +93,7 @@ Malek Par. 2: Sample text.
        region="316,269,2412,2171">
 
 ## Follow the Food
-Allie Par. 3: Follow the slave trade across the Atlantic and venture into the Antebellum south. <span data-mouseover-map-flyto="29.9775,-90.0467"> Louisiana</span> is the hot spot.
+Allie Par. 3: Follow the slave trade across the Atlantic and venture into the Antebellum south. <span data-mouseover-map-flyto="30.0364,-90.4134"> Louisiana</span> is the hot spot.
 <param ve-map
 	center="30.96, -91.401"
 	zoom="5"
@@ -115,7 +115,7 @@ Allie Par. 4: Okra as a staple ration on slave ships to keep enslaved peoples al
  	description="Photo by Jonathan M. Lewis"
   	license="TBD, need permission"
 	url="https://afroculinaria.com/wp-content/uploads/2013/03/kitchen_color_email.jpg?w=480"
- 	region="79,274,1117,1005">
+ 	region="8,120,463,417">
  	
 # References
 
