@@ -114,7 +114,7 @@ Allie Par. 4: Okra as a staple ration on slave ships to keep enslaved peoples al
 	label="Michael Twitty: chef and food historian"
  	description="Photo by Jonathan M. Lewis"
   	license="TBD, need permission"
-	url="https://afroculinaria.com/wp-content/uploads/2013/03/kitchen_color_email.jpg?w=480.jpg"
+	url="https://afroculinaria.com/wp-content/uploads/2013/03/kitchen_color_email.jpg"
  	
 # References
 
