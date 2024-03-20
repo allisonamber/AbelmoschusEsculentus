@@ -27,13 +27,14 @@ Allie Par. 1: sample introduction to the Okra focusing on whether gumbo should o
        url="https://wholeheartily.files.wordpress.com/2020/10/tianasgumboss_02.jpg"
        region="1,-156,1246,1121">
 
-Allie Par. 2:
+Allie Par. 2: sample text
 <param ve-image
 	label="Tiana's Gumbo Close-up"
  	description="film capture"
   	license="Restricted"
-   	url="https://64.media.tumblr.com/4132d9e844e0a48974f3624a3aab8a26/tumblr_nrwxbht0tJ1uqe0l4o1_400.gifv">
-       
+   	url="https://64.media.tumblr.com/4132d9e844e0a48974f3624a3aab8a26/tumblr_nrwxbht0tJ1uqe0l4o1_400.gifv"
+	region="-21,-5,314,283">
+  
 Allie Par. 3: Flower close up.
 <param ve-image 
        label="Abelmoschus Esculentus flower" 
