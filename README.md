@@ -108,6 +108,10 @@ Allie Par. 3: Follow the slave trade across the Atlantic and venture into the An
 	coords="30.96, -91.401"
 	size="512, 328"
 	circle="true">
+ <param ve-map-linestring geojson
+ 	url="https://raw.githubusercontent.com/allisonamber/AbelmoschusEsculentus/main/arrows.json"
+  	show-labels
+   	stroke-width="4">
 
 Allie Par. 4: Okra as a staple ration on slave ships to keep enslaved peoples alive, common enslaved peoples private gardens and businesses, a reminder of home. Twitty states, "the Old South is a place where people use food to tell themselves who they are, and to tell stories about where they've been" (Twitty xii). And "In cooking, the sttyle of southern food is more verb than adjective; it is the exercise of specific histories, not just the result" (8).
 <param ve-image
