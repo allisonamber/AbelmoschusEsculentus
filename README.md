@@ -118,7 +118,7 @@ Allie Par. 3: Follow the slave trade across the <span data-mouseover-map-flyto=1
   	show-labels
    	stroke-width="4">
 
-Allie Par. 4: Okra as a staple ration on slave ships to keep enslaved peoples alive, common enslaved peoples private gardens and businesses, a reminder of home. Twitty states, "the Old South is a place where people use food to tell themselves who they are, and to tell stories about where they've been" (Twitty xii). And "In cooking, the sttyle of southern food is more verb than adjective; it is the exercise of specific histories, not just the result" (8).
+Allie Par. 4: Okra as a staple ration on slave ships to keep enslaved peoples alive, common enslaved peoples private gardens and businesses, a reminder of home. Twitty states, "the Old South is a place where people use food to tell themselves who they are, and to tell stories about where they've been" (Twitty xii). And "In cooking, the style of southern food is more verb than adjective; it is the exercise of specific histories, not just the result" (8).
 <param ve-image
 	label="Michael Twitty: chef and food historian"
  	description="Photo by Jonathan M. Lewis"
