@@ -108,7 +108,12 @@ Allie Par. 3: Follow the slave trade across the <span data-mouseover-map-flyto=1
 	coords="30.96, -91.401"
 	size="512, 328"
 	circle="true">
- <param ve-map-linestring geojson
+<param ve-map-marker
+	url="https://upload.wikimedia.org/wikipedia/commons/1/18/Okra_with_meat_and_fish.jpg"
+	coords="6.2622, 6.9865"
+	size="512, 328"
+	circle="true">
+<param ve-map-linestring geojson
  	url="https://raw.githubusercontent.com/allisonamber/AbelmoschusEsculentus/main/arrows.json"
   	show-labels
    	stroke-width="4">
