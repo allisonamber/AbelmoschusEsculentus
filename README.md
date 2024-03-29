@@ -27,7 +27,7 @@ Allie Par. 1: sample introduction to the Okra focusing on whether gumbo should o
        url="https://wholeheartily.files.wordpress.com/2020/10/tianasgumboss_02.jpg"
        region="1,-156,1246,1121">
 
-Allie Par. 2: Flower close up.
+Allie Par. 2: Mary's Flower close up.
 <param ve-image 
        label="Abelmoschus Esculentus flower" 
        description="photo from Wikimedia" 
@@ -93,7 +93,7 @@ Malek Par. 2: Sample text.
        region="316,269,2412,2171">
 
 ## Follow the Food
-Allie Par. 3: Follow the slave trade across the <span data-mouseover-map-flyto=16.362,-1.538"> Atlantic</span> and venture into the Antebellum south. <span data-mouseover-map-flyto="30.0364,-90.4134"> Louisiana</span> is the hot spot.
+Allie Par. 3: Follow the slave trade across the <span data-mouseover-map-flyto=16.362,-1.538"> Atlantic</span> and venture into the Antebellum south. <span data-mouseover-map-flyto="30.0364,-90.4134"> Louisiana</span> is the hot spot for the southern cooking style I'll be focusing on.
 <param ve-map
 	center="30.96, -91.401"
 	zoom="5"
