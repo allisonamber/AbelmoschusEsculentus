@@ -101,7 +101,7 @@ Malek Par. 2: Sample text.
        region="316,269,2412,2171">
 
 ## Follow the Food
-Allie Par. 3: Follow the slave trade across the <span data-mouseover-map-flyto=16.362,-1.538"> Atlantic</span> and venture into the Antebellum south. <span data-mouseover-map-flyto="30.0364,-90.4134"> Louisiana</span> is the hot spot for the southern cooking style I'll be focusing on.
+Allie Par. 4: Follow the slave trade across the <span data-mouseover-map-flyto=16.362,-1.538"> Atlantic</span> and venture into the Antebellum south. <span data-mouseover-map-flyto="30.0364,-90.4134"> Louisiana</span> is the hot spot for the southern cooking style I'll be focusing on.
 <param ve-map
 	center="30.96, -91.401"
 	zoom="5"
@@ -126,14 +126,25 @@ Allie Par. 3: Follow the slave trade across the <span data-mouseover-map-flyto=1
   	show-labels
    	stroke-width="4">
 
-Allie Par. 4: Okra as a staple ration on slave ships to keep enslaved peoples alive, common enslaved peoples private gardens and businesses, a reminder of home. Twitty states, "the Old South is a place where people use food to tell themselves who they are, and to tell stories about where they've been" (Twitty xii). And "In cooking, the style of southern food is more verb than adjective; it is the exercise of specific histories, not just the result" (8).
+Allie Par. 5: Okra as a staple ration on slave ships to keep enslaved peoples alive, common enslaved peoples private gardens and businesses, a reminder of home. Twitty states, "the Old South is a place where people use food to tell themselves who they are, and to tell stories about where they've been" (Twitty xii). And "In cooking, the style of southern food is more verb than adjective; it is the exercise of specific histories, not just the result" (8).
 <param ve-image
 	label="Michael Twitty: chef and food historian"
  	description="Photo by Jonathan M. Lewis"
   	license="TBD, need permission"
 	url="https://afroculinaria.com/wp-content/uploads/2013/03/kitchen_color_email.jpg?w=480"
  	region="8,120,463,417">
- 	
+Allie Par. 6: Okra and the Antebellum south.
+<param ve-map
+	center="38.00534,-78.45222"
+	zoom="5"
+	Title="Thomas Jefferson's Virginian Plantation"
+	prefer-geojson>
+<param ve-map-marker
+	url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/02_Thomas_Jefferson_3x4.jpg/640px-02_Thomas_Jefferson_3x4.jpg"
+	coords="38.00534,-78.45222"
+	size="512, 328"
+	circle="true">
+ 
 # References
 
 [^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
