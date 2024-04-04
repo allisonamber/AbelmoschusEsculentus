@@ -133,6 +133,7 @@ Allie Par. 5: Okra as a staple ration on slave ships to keep enslaved peoples al
   	license="TBD, need permission"
 	url="https://afroculinaria.com/wp-content/uploads/2013/03/kitchen_color_email.jpg?w=480"
  	region="8,120,463,417">
+
 Allie Par. 6: Okra and the Antebellum south.
 <param ve-map
 	center="38.00534,-78.45222"
