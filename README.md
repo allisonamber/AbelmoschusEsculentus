@@ -19,7 +19,7 @@
        region="-172,94,862,701">
 
 # Point of Interest
-Allie Par. 1: sample introduction to the Okra focusing on whether gumbo should or shouldn't have Okra in it. Using Disney's Princess and the Frog as an example. Expand on gumbo as a cultural significant food in Black southern communities. Twitty, "we had gumbo for every season and every occasion. meatless gumbos for Lent, gumbos for duck, crawfish, shrimp, oysters, whatever was in season; filét gumbo when there was no okra, okra gumbo when there was no filét--gumbos for weddings, for funerals [...] it told you what time it was" (Twitty 196).
+Allie Par. 1: sample introduction to the Okra focusing on whether gumbo should or shouldn't have Okra in it. Using Disney's Princess and the Frog as an example. Expand on gumbo as a cultural significant food in Black southern communities. Twitty, "we had gumbo for every season and every occasion. meatless gumbos for Lent, gumbos for duck, crawfish, shrimp, oysters, whatever was in season; filé gumbo when there was no okra, okra gumbo when there was no filé--gumbos for weddings, for funerals [...] it told you what time it was" (Twitty 196).
 <param ve-image 
        label="Disney's Princess Tiana's Gumbo" 
        description="photo from Whole Heartily" 
