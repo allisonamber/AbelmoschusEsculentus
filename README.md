@@ -137,7 +137,7 @@ Allie Par. 5: Okra as a staple ration on slave ships to keep enslaved peoples al
 Allie Par. 6: Okra and the Antebellum south.
 <param ve-map
 	center="38.00907,-78.45327"
-	zoom="10"
+	zoom="12"
 	Title="Thomas Jefferson's Virginian Plantation"
 	prefer-geojson>
 <param ve-map-marker
@@ -146,7 +146,7 @@ Allie Par. 6: Okra and the Antebellum south.
 	size="512, 328"
 	circle="true">
 
- Allie Par. 6.5 As seen on Thomas Jefferson's <span data-mouseover-image-zoomto="824,800,1152,938"> Monticello Plantation.
+ Allie Par. 6.5 As seen on Thomas Jefferson's Monticello Plantation.
  <param ve-image
 	label="Jefferson's Monticello Plantation Musuem"
  	description="Entrance to Jefferson's Monticello Plantation; records of okra crops"
