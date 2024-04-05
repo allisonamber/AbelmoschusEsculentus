@@ -151,7 +151,7 @@ Allie Par. 6: Okra and the Antebellum south.
 	label="Jefferson's Monticello Plantation Musuem"
  	description="Entrance to Jefferson's Monticello Plantation; records of okra crops"
   	license="public domain"
-   	url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Thomas_Jefferson%27s_Monticello.JPG/640px-Thomas_Jefferson%27s_Monticello.JPG">
+   	url="https://upload.wikimedia.org/wikipedia/commons/f/f0/Monticello_Home_of_Thomas_Jefferson_3.jpg">
 	
 # References
 
