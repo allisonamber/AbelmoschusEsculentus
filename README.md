@@ -142,7 +142,7 @@ Allie Par. 6: Okra and the Antebellum south.
 	prefer-geojson>
 <param ve-map-marker
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/02_Thomas_Jefferson_3x4.jpg/640px-02_Thomas_Jefferson_3x4.jpg"
-	coords="38.00534,-78.45222"
+	coords="38.00907,-78.45327"
 	size="512, 328"
 	circle="true">
 
