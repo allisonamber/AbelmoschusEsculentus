@@ -148,7 +148,7 @@ Allie Par. 6: Okra and the Antebellum south.
 
  Allie Par. 6.5 As seen on Thomas Jefferson's Monticello Plantation.
  <param ve-image
-	label="Jefferson's Monticello Plantation Musuem"
+	label="Jefferson's Monticello Plantation"
  	description="Entrance to Jefferson's Monticello Plantation; records of okra crops"
   	license="public domain"
    	url="https://upload.wikimedia.org/wikipedia/commons/f/f0/Monticello_Home_of_Thomas_Jefferson_3.jpg"
