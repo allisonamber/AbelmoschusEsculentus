@@ -137,7 +137,7 @@ Allie Par. 5: Okra as a staple ration on slave ships to keep enslaved peoples al
 Allie Par. 6: Okra and the Antebellum south.
 <param ve-map
 	center="38.00907,-78.45327"
-	zoom="12"
+	zoom="15"
 	Title="Thomas Jefferson's Virginian Plantation"
 	prefer-geojson>
 <param ve-map-marker
