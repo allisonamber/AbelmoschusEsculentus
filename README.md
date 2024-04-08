@@ -115,14 +115,15 @@ Allie Par. 3: This paragraph will tackle the ‘mammy’ trope in film, media, a
 	label="Hattie McDaniel, Olivia De Havilland, and Vivien Leigh"
  	description="Actresses on the set of *Gone With the Wind*"
   	license="Public Domain"
-url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Gone_With_The_Wind_featuring_McDaniel_%26_de_Havilland_%26_Leigh.jpg/640px-Gone_With_The_Wind_featuring_McDaniel_%26_de_Havilland_%26_Leigh.jpg">
+url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Gone_With_The_Wind_featuring_McDaniel_%26_de_Havilland_%26_Leigh.jpg/640px-Gone_With_The_Wind_featuring_McDaniel_%26_de_Havilland_%26_Leigh.jpg"
+	region="26,-38,610,570">
 
 Allie Par. 4: Following the history present in the previous paragraph, this paragraph will explore this racist dogma in action through the erasure of Black voices. I will draw on America’s first Southern cookbooks, their authors, their audiences, and the elephant in the room. This paragraph will draw heavily from Tipton-Martin’s historiography of African American cook books. I will also talk about how the Black community, mostly Black women, created much of what is associated with Southern cuisine and values to give credit where credit is due. There will also be mention of the first book by an African American ever (see final source). Okra as a staple ration on slave ships to keep enslaved peoples alive, common enslaved peoples private gardens and businesses, a reminder of home. Twitty states, "the Old South is a place where people use food to tell themselves who they are, and to tell stories about where they've been" (Twitty xii). And "In cooking, the style of southern food is more verb than adjective; it is the exercise of specific histories, not just the result" (8).
 <param ve-image
-	label="Mary Randolph, author of the *The Virginia House-Wife*"
+	label="Mary Randolph, author of the _The Virginia House-Wife_"
 	description="Picture of Mary Randolph"
 	license="public domain"
-	url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mrs._David_Meade_Randolph%2C_head-and-shoulders_portrait%2C_right_profile_LCCN2007677865.jpg">
+	url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mrs._David_Meade_Randolph%2C_head-and-shoulders_portrait%2C_right_profile_LCCN2007677865.jpg/640px-Mrs._David_Meade_Randolph%2C_head-and-shoulders_portrait%2C_right_profile_LCCN2007677865.jpg">
 
 ## Traditional Culinary Practices and Culture
 Allie Par. 5: Here I would like to dive into the history of the Gullah Geechee people who are often cited as helping define the African American dialect–including the term ‘Okra’ as we know it today. Taking from Megget’s cook books and sources on the Gullah peoples’ experiences under slavery and the doors their work opened for future generations. This paragraph will also set up the difficult relationship with farming and cooking that both Megget and Twitty discuss in their respective works. As well as themes of ancestral knowledge and reconnecting with the Earth through food.
@@ -149,12 +150,10 @@ url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Okro_soup_with_sh
 
 ## The People's Vegetable
 Mary Par. 4: Sample text. Picture required. 
-
 Mary Par. 5: Sample text. Picture required.
 
 ## Modern Uses
 Malek Par. 3: Food, nutrition, cosmetics and medicine. image needed.
-
 Malek Par. 4: Perhaps this paragraph can be an extension of the first one; since medicine was a big focus in our research or the plant's potential health benefits, could we discuss some studies here that connect to those points? Image needed.
 
 ## Okra's Physical Features:
@@ -162,7 +161,6 @@ Mary Par. 6: Leaves: Used as a vegetable in West Africa and South Asia. Fruits (
 
 ## Okra's Future
 Mary Par. 7: Okra as biofuel. Image needed.
-
 Malek Par. 5: Maybe discussing climate change and food availability and how okra and other foods can be used to ensure food security in a changing world? Image needed.
 
 ## Conclusion
