@@ -33,7 +33,7 @@ Allie Par. 2: Okra as a cultural phenomenon. Twitty, "we had gumbo for every sea
        description="photo from Whole Heartily" 
        license="Public Domain"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Mr_Okra_on_Frenchmen.jpg/640px-Mr_Okra_on_Frenchmen.jpg"
-       region="1,-156,1246,1121">
+       region="0,-37,595,556">
 
 # Global Crop Status
 Mary Par. 1: As an orphaned plant there is no officially origin attributed to Okra, but there is a strong history of its presence and culturally significance in Asia and Africa. Timeline will be inserted below.
@@ -112,10 +112,10 @@ Malek Par. 2: Follow the slave trade across the <span data-mouseover-map-flyto=1
 ## The Significance of the Kitchen
 Allie Par. 3: This paragraph will tackle the ‘mammy’ trope in film, media, and culture. With examples such as Hattie McDaniel’s Oscar winning performance in Gone With the Wind and Aunt Jemima I will break down the history of these figures and what they mean for Black communities–particularly in the context of this stereotype being used to both mock and maintain white supremist ideology. 
 <param ve-image
-	label="Hattie McDaniel"
- 	description="Image of the Oscar winning actress"
+	label="Hattie McDaniel, Olivia De Havilland, and Vivien Leigh"
+ 	description="Actresses on the set of *Gone With the Wind*"
   	license="Public Domain"
-url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Gone_With_The_Wind_featuring_McDaniel_%26_de_Havilland_%26_Leigh.jpg/640px-Gone_With_The_Wind_featuring_McDaniel_%26_de_Havilland_%26_Leigh.jpg>
+url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Gone_With_The_Wind_featuring_McDaniel_%26_de_Havilland_%26_Leigh.jpg/640px-Gone_With_The_Wind_featuring_McDaniel_%26_de_Havilland_%26_Leigh.jpg">
 
 Allie Par. 4: Following the history present in the previous paragraph, this paragraph will explore this racist dogma in action through the erasure of Black voices. I will draw on America’s first Southern cookbooks, their authors, their audiences, and the elephant in the room. This paragraph will draw heavily from Tipton-Martin’s historiography of African American cook books. I will also talk about how the Black community, mostly Black women, created much of what is associated with Southern cuisine and values to give credit where credit is due. There will also be mention of the first book by an African American ever (see final source). Okra as a staple ration on slave ships to keep enslaved peoples alive, common enslaved peoples private gardens and businesses, a reminder of home. Twitty states, "the Old South is a place where people use food to tell themselves who they are, and to tell stories about where they've been" (Twitty xii). And "In cooking, the style of southern food is more verb than adjective; it is the exercise of specific histories, not just the result" (8).
 <param ve-image
@@ -130,13 +130,16 @@ Allie Par. 5: Here I would like to dive into the history of the Gullah Geechee p
 	label="Enslaved Gullah People Painting"
  	description="Painting of enslaved Gullah people on a South Carolina plantation"
   	license="public domain"
-   	url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Gullah_s_carolina_1790.jpg/640px-Gullah_s_carolina_1790.jpg">
+   	url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Gullah_s_carolina_1790.jpg/640px-Gullah_s_carolina_1790.jpg"
+	region="-45,-136,732,684">
+ 
 Allie Par. 6: Following the thread presented in the previous paragraph, this one aims to discuss the benefits of mending one’s relationship with the past through the Earth. How cooking can heal physically, but more importantly in this context, emotionally. Connecting with your ancestry and dispelling stereotypes. This paragraph will gather everything from the last section and this section thus far to show ‘both sides of the nutmeg’ and ground our story. Touching on culture/community/the European hegemony/independence/the agricultural revolution.
 <param ve-image
 	label="Michael Twitty"
  	description="Twitty on his “Southern Discomfort Tour” in front of a reconstructed cabin for enslaved people"
   	license="permission needed, in the works"
    	url="https://thecookinggene.files.wordpress.com/2012/06/jwd-somersetplace_46.jpg?w=1058&h=1586">
+    
 Allie Par. 7: The many evolutions of okra soup, its cultural significance, and the gumbo debate in the South. Okra soup + Gumbo and Pepper Pot + Gnaouia and Bamia + Bhindi dishes (perhaps this section could talk about how okra continues to be an essential dish in the places where it was historically cultivated and eaten).
 <param ve-image
 	label="Okra Soup"
