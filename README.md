@@ -123,7 +123,8 @@ Allie Par. 4: Following the history present in the previous paragraph, this para
 	label="Mary Randolph, author of the _The Virginia House-Wife_"
 	description="Picture of Mary Randolph"
 	license="public domain"
-	url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mrs._David_Meade_Randolph%2C_head-and-shoulders_portrait%2C_right_profile_LCCN2007677865.jpg/640px-Mrs._David_Meade_Randolph%2C_head-and-shoulders_portrait%2C_right_profile_LCCN2007677865.jpg">
+	url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mrs._David_Meade_Randolph%2C_head-and-shoulders_portrait%2C_right_profile_LCCN2007677865.jpg/640px-Mrs._David_Meade_Randolph%2C_head-and-shoulders_portrait%2C_right_profile_LCCN2007677865.jpg"
+ 	region="15,69,618,577">
 
 ## Traditional Culinary Practices and Culture
 Allie Par. 5: Here I would like to dive into the history of the Gullah Geechee people who are often cited as helping define the African American dialect–including the term ‘Okra’ as we know it today. Taking from Megget’s cook books and sources on the Gullah peoples’ experiences under slavery and the doors their work opened for future generations. This paragraph will also set up the difficult relationship with farming and cooking that both Megget and Twitty discuss in their respective works. As well as themes of ancestral knowledge and reconnecting with the Earth through food.
