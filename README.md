@@ -18,7 +18,7 @@
        license="CC BY-SA 4.0"
        region="-172,94,862,701">
 
-# Point of Interest
+# The Fighting Okra
 Allie Par. 1: While not officially recognized by the University, students, staff, and fans of Delta State University in Mississippi alike have lovingly adopted the 'Fighting Okra' as the school's mascot. 
 <param ve-image
 	label="Delta University's Mascot: The Fighting Okra"
@@ -27,24 +27,23 @@ Allie Par. 1: While not officially recognized by the University, students, staff
 	url="https://deltastatement.com/wp-content/uploads/2017/04/0416okra1.jpg"
  	region="121,3,613,532">
 
-Allie Par. 2: sample introduction to the Okra focusing on whether gumbo should or shouldn't have Okra in it. Using Disney's Princess and the Frog as an example. Expand on gumbo as a cultural significant food in Black southern communities. Twitty, "we had gumbo for every season and every occasion. meatless gumbos for Lent, gumbos for duck, crawfish, shrimp, oysters, whatever was in season; filé gumbo when there was no okra, okra gumbo when there was no filé--gumbos for weddings, for funerals [...] it told you what time it was" (Twitty 196).
+Allie Par. 2: Okra as a cultural phenomenon. Twitty, "we had gumbo for every season and every occasion. meatless gumbos for Lent, gumbos for duck, crawfish, shrimp, oysters, whatever was in season; filé gumbo when there was no okra, okra gumbo when there was no filé--gumbos for weddings, for funerals [...] it told you what time it was" (Twitty 196).
 <param ve-image 
-       label="Disney's Princess Tiana's Gumbo" 
+       label="Mr. Okra" 
        description="photo from Whole Heartily" 
-       license="Restricted, need permission"
-       url="https://wholeheartily.files.wordpress.com/2020/10/tianasgumboss_02.jpg"
+       license="Public Domain"
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Mr_Okra_on_Frenchmen.jpg/640px-Mr_Okra_on_Frenchmen.jpg"
        region="1,-156,1246,1121">
 
-Allie Par. 3: Mary's Flower close up.
-<param ve-image 
-       label="Abelmoschus Esculentus flower" 
-       description="photo from Wikimedia" 
+# Global Crop Status
+Mary Par. 1: As an orphaned plant there is no officially origin attributed to Okra, but there is a strong history of its presence and culturally significance in Asia and Africa. Timeline will be inserted below.
+<param ve-image
+       label="Mozambican Men and Women Selling Okra and Other Vegetables"
+       description="Photo by Elemalema"
        license="public domain"
-	region="70,479,1940,1746"
-url="https://upload.wikimedia.org/wikipedia/commons/8/85/Okra_or_Lady_Finger_flower_%28%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-_%E0%A6%A2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%81%E0%A6%A1%E0%A6%BC%E0%A6%B6%29_%3B_scientific_name-_Abelmoschus_esculentus.jpg">
-
-# Okra's Many Origins
-Mary Par. 1: As an orphaned plant there is no officially origin attributed to Okra, but there is a strong history of its presence and culturally significance in Asia and Africa. Lets start with Africa. <span data-mouseover-map-flyto="6.2622, 6.9865, 7"> Anambra</span> is said to be known for five different species of the okra plant. These species are are grown across the different localities in the state. some are said to be more slippery than the other according to the species. 
+	url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mozambican_Men_and_Women_Selling_Okra_and_other_vegetables.jpg/640px-Mozambican_Men_and_Women_Selling_Okra_and_other_vegetables.jpg">
+ 
+Mary Par. 2: When cultivated:Lets start with Africa. <span data-mouseover-map-flyto="6.2622, 6.9865, 7"> Anambra</span> is said to be known for five different species of the okra plant. These species are are grown across the different localities in the state. some are said to be more slippery than the other according to the species. 
 <param ve-map
 	center="6.2622, 6.9865"
 	zoom="2"
@@ -55,13 +54,6 @@ Mary Par. 1: As an orphaned plant there is no officially origin attributed to Ok
 	coords="6.2622, 6.9865"
 	size="512, 328"
 	circle="true">
-
-Mary Par. 2: When cultivated:
-<param ve-image
-       label="Mozambican Men and Women Selling Okra and Other Vegetables"
-       description="Photo by Elemalema"
-       license="public domain"
-url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mozambican_Men_and_Women_Selling_Okra_and_other_vegetables.jpg/640px-Mozambican_Men_and_Women_Selling_Okra_and_other_vegetables.jpg">
        
 Mary Par. 3: According to Chris Smith (2019), <span data-mouseover-map-flyto="7.4333, 3.2833, 7"> Igbo Ora</span> which is a city located in Ibarapa central of Oyo state has a history of multiple twins. History has it that this is as a result of numerous take of Okra in this part of the south western Nigeria.
 <param ve-map
@@ -75,7 +67,7 @@ Mary Par. 3: According to Chris Smith (2019), <span data-mouseover-map-flyto="7.
 	size="512, 328"
 	circle="true">
 
-## Okra in North Africa
+## Crossing Borders 
 Malek Par. 1: <span data-mouseover-map-flyto="36.89054761602349, 10.322687034859703"> La Marsa</span> (also known as El Marsa) is a suburb of Tunis, is a coastal town of approximately 100,000 people. It is famous in Tunisia for its regional dish marqet gnaouia, a spicy tomato based stew eaten with bread that pairs small okra with some sort of protein.
 <param ve-map
 	center="36.89054761602349, 10.322687034859703"
@@ -92,16 +84,7 @@ Malek Par. 1: <span data-mouseover-map-flyto="36.89054761602349, 10.322687034859
 	size="512, 328" 
 	circle="true">
 
-Malek Par. 2: Sample text.
-<param ve-image
-	label="Abelmoschus moschatus Medik"
-       description="29068 Abelmoschus moschatus Medike" 
-       license="CCBY" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0b/Abelmoschus_moschatus_Medik._%28AM_AK28139%29.jpg"
-       region="316,269,2412,2171">
-
-## Follow the Food
-Allie Par. 4: Follow the slave trade across the <span data-mouseover-map-flyto=16.362,-1.538"> Atlantic</span> and venture into the Antebellum south. <span data-mouseover-map-flyto="30.0364,-90.4134"> Louisiana</span> is the hot spot for the southern cooking style I'll be focusing on.
+Malek Par. 2: Follow the slave trade across the <span data-mouseover-map-flyto=16.362,-1.538"> Atlantic</span> and venture into the Antebellum south. <span data-mouseover-map-flyto="30.0364,-90.4134"> Louisiana</span> is the hot spot for the southern cooking style I'll be focusing on.
 <param ve-map
 	center="30.96, -91.401"
 	zoom="5"
@@ -126,33 +109,61 @@ Allie Par. 4: Follow the slave trade across the <span data-mouseover-map-flyto=1
   	show-labels
    	stroke-width="4">
 
-Allie Par. 5: Okra as a staple ration on slave ships to keep enslaved peoples alive, common enslaved peoples private gardens and businesses, a reminder of home. Twitty states, "the Old South is a place where people use food to tell themselves who they are, and to tell stories about where they've been" (Twitty xii). And "In cooking, the style of southern food is more verb than adjective; it is the exercise of specific histories, not just the result" (8).
+## The Significance of the Kitchen
+Allie Par. 3: This paragraph will tackle the ‘mammy’ trope in film, media, and culture. With examples such as Hattie McDaniel’s Oscar winning performance in Gone With the Wind and Aunt Jemima I will break down the history of these figures and what they mean for Black communities–particularly in the context of this stereotype being used to both mock and maintain white supremist ideology. 
 <param ve-image
-	label="Michael Twitty: chef and food historian"
- 	description="Photo by Jonathan M. Lewis"
-  	license="TBD, need permission"
-	url="https://afroculinaria.com/wp-content/uploads/2013/03/kitchen_color_email.jpg?w=480"
- 	region="8,120,463,417">
+	label="Hattie McDaniel"
+ 	description="Image of the Oscar winning actress"
+  	license="Public Domain"
+url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Gone_With_The_Wind_featuring_McDaniel_%26_de_Havilland_%26_Leigh.jpg/640px-Gone_With_The_Wind_featuring_McDaniel_%26_de_Havilland_%26_Leigh.jpg>
 
-Allie Par. 6: Okra and the Antebellum south.
-<param ve-map
-	center="38.00907,-78.45327"
-	zoom="17"
-	Title="Thomas Jefferson's Virginian Plantation"
-	prefer-geojson>
-<param ve-map-marker
-	url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/02_Thomas_Jefferson_3x4.jpg/640px-02_Thomas_Jefferson_3x4.jpg"
-	coords="38.00907,-78.45327"
-	size="512, 328"
-	circle="true">
+Allie Par. 4: Following the history present in the previous paragraph, this paragraph will explore this racist dogma in action through the erasure of Black voices. I will draw on America’s first Southern cookbooks, their authors, their audiences, and the elephant in the room. This paragraph will draw heavily from Tipton-Martin’s historiography of African American cook books. I will also talk about how the Black community, mostly Black women, created much of what is associated with Southern cuisine and values to give credit where credit is due. There will also be mention of the first book by an African American ever (see final source). Okra as a staple ration on slave ships to keep enslaved peoples alive, common enslaved peoples private gardens and businesses, a reminder of home. Twitty states, "the Old South is a place where people use food to tell themselves who they are, and to tell stories about where they've been" (Twitty xii). And "In cooking, the style of southern food is more verb than adjective; it is the exercise of specific histories, not just the result" (8).
+<param ve-image
+	label="Mary Randolph, author of the *The Virginia House-Wife*"
+	description="Picture of Mary Randolph"
+	license="public domain"
+	url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mrs._David_Meade_Randolph%2C_head-and-shoulders_portrait%2C_right_profile_LCCN2007677865.jpg">
 
- Allie Par. 6.5 As seen on Thomas Jefferson's Monticello Plantation.
- <param ve-image
-	label="Jefferson's Monticello Plantation"
- 	description="Entrance to Jefferson's Monticello Plantation; records of okra crops"
+## Traditional Culinary Practices and Culture
+Allie Par. 5: Here I would like to dive into the history of the Gullah Geechee people who are often cited as helping define the African American dialect–including the term ‘Okra’ as we know it today. Taking from Megget’s cook books and sources on the Gullah peoples’ experiences under slavery and the doors their work opened for future generations. This paragraph will also set up the difficult relationship with farming and cooking that both Megget and Twitty discuss in their respective works. As well as themes of ancestral knowledge and reconnecting with the Earth through food.
+<param ve-image
+	label="Enslaved Gullah People Painting"
+ 	description="Painting of enslaved Gullah people on a South Carolina plantation"
   	license="public domain"
-   	url="https://upload.wikimedia.org/wikipedia/commons/f/f0/Monticello_Home_of_Thomas_Jefferson_3.jpg"
-    	region="0,38,2448,2289">
+   	url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Gullah_s_carolina_1790.jpg/640px-Gullah_s_carolina_1790.jpg">
+Allie Par. 6: Following the thread presented in the previous paragraph, this one aims to discuss the benefits of mending one’s relationship with the past through the Earth. How cooking can heal physically, but more importantly in this context, emotionally. Connecting with your ancestry and dispelling stereotypes. This paragraph will gather everything from the last section and this section thus far to show ‘both sides of the nutmeg’ and ground our story. Touching on culture/community/the European hegemony/independence/the agricultural revolution.
+<param ve-image
+	label="Michael Twitty"
+ 	description="Twitty on his “Southern Discomfort Tour” in front of a reconstructed cabin for enslaved people"
+  	license="permission needed, in the works"
+   	url="https://thecookinggene.files.wordpress.com/2012/06/jwd-somersetplace_46.jpg?w=1058&h=1586">
+Allie Par. 7: The many evolutions of okra soup, its cultural significance, and the gumbo debate in the South. Okra soup + Gumbo and Pepper Pot + Gnaouia and Bamia + Bhindi dishes (perhaps this section could talk about how okra continues to be an essential dish in the places where it was historically cultivated and eaten).
+<param ve-image
+	label="Okra Soup"
+ 	description="It's okra soup"
+  	license="Public domain"
+url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Okro_soup_with_shrimps%2Cdried_fish%2Ccow_leg_and_tail_with_meat.jpg/640px-Okro_soup_with_shrimps%2Cdried_fish%2Ccow_leg_and_tail_with_meat.jpg">
+
+## The People's Vegetable
+Mary Par. 4: Sample text. Picture required. 
+
+Mary Par. 5: Sample text. Picture required.
+
+## Modern Uses
+Malek Par. 3: Food, nutrition, cosmetics and medicine. image needed.
+
+Malek Par. 4: Perhaps this paragraph can be an extension of the first one; since medicine was a big focus in our research or the plant's potential health benefits, could we discuss some studies here that connect to those points? Image needed.
+
+## Okra's Physical Features:
+Mary Par. 6: Leaves: Used as a vegetable in West Africa and South Asia. Fruits (Pods): Boiled and eaten. Seeds: Ground and used as a coffee substitute or fuel source. Oil and Protein and its various uses. Colors: greens, yellows, reds Texture: stiff shiny or spiny fuzz. Image needed.
+
+## Okra's Future
+Mary Par. 7: Okra as biofuel. Image needed.
+
+Malek Par. 5: Maybe discussing climate change and food availability and how okra and other foods can be used to ensure food security in a changing world? Image needed.
+
+## Conclusion
+Malek Par. 6: Perhaps a discussion on how okra’s historical life-saving and life-giving qualities can become modes for us to look towards our present and future. Image needed.
 	
 # References
 
