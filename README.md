@@ -35,7 +35,7 @@ Allie Par. 2: Okra as a cultural phenomenon. Twitty, "we had gumbo for every sea
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Mr_Okra_on_Frenchmen.jpg/640px-Mr_Okra_on_Frenchmen.jpg"
        region="0,-37,595,556">
 
-# Global Crop Status
+# Okra: The Globetrotter
 Mary Par. 1: As an orphaned plant there is no officially origin attributed to Okra, but there is a strong history of its presence and culturally significance in Asia and Africa. Timeline will be inserted below.
 <param ve-image
        label="Mozambican Men and Women Selling Okra and Other Vegetables"
@@ -67,7 +67,7 @@ Mary Par. 3: According to Chris Smith (2019), <span data-mouseover-map-flyto="7.
 	size="512, 328"
 	circle="true">
 
-## Crossing Borders 
+# Crossing Borders 
 Malek Par. 1: <span data-mouseover-map-flyto="36.89054761602349, 10.322687034859703"> La Marsa</span> (also known as El Marsa) is a suburb of Tunis, is a coastal town of approximately 100,000 people. It is famous in Tunisia for its regional dish marqet gnaouia, a spicy tomato based stew eaten with bread that pairs small okra with some sort of protein.
 <param ve-map
 	center="36.89054761602349, 10.322687034859703"
@@ -109,7 +109,7 @@ Malek Par. 2: Follow the slave trade across the <span data-mouseover-map-flyto=1
   	show-labels
    	stroke-width="4">
 
-## The Significance of the Kitchen
+# The Significance of the Kitchen
 Allie Par. 3: This paragraph will tackle the ‘mammy’ trope in film, media, and culture. With examples such as Hattie McDaniel’s Oscar winning performance in Gone With the Wind and Aunt Jemima I will break down the history of these figures and what they mean for Black communities–particularly in the context of this stereotype being used to both mock and maintain white supremist ideology. 
 <param ve-image
 	label="Hattie McDaniel, Olivia De Havilland, and Vivien Leigh"
@@ -126,7 +126,7 @@ Allie Par. 4: Following the history present in the previous paragraph, this para
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mrs._David_Meade_Randolph%2C_head-and-shoulders_portrait%2C_right_profile_LCCN2007677865.jpg/640px-Mrs._David_Meade_Randolph%2C_head-and-shoulders_portrait%2C_right_profile_LCCN2007677865.jpg"
  	region="15,69,618,577">
 
-## Traditional Culinary Practices and Culture
+# Traditional Culinary Practices and Culture
 Allie Par. 5: Here I would like to dive into the history of the Gullah Geechee people who are often cited as helping define the African American dialect–including the term ‘Okra’ as we know it today. Taking from Megget’s cook books and sources on the Gullah peoples’ experiences under slavery and the doors their work opened for future generations. This paragraph will also set up the difficult relationship with farming and cooking that both Megget and Twitty discuss in their respective works. As well as themes of ancestral knowledge and reconnecting with the Earth through food.
 <param ve-image
 	label="Enslaved Gullah People Painting"
@@ -149,22 +149,15 @@ Allie Par. 7: The many evolutions of okra soup, its cultural significance, and t
   	license="Public domain"
 url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Okro_soup_with_shrimps%2Cdried_fish%2Ccow_leg_and_tail_with_meat.jpg/640px-Okro_soup_with_shrimps%2Cdried_fish%2Ccow_leg_and_tail_with_meat.jpg">
 
-## The People's Vegetable
+# Okra and Its Gifts
 Mary Par. 4: Sample text. Picture required. 
 Mary Par. 5: Sample text. Picture required.
 
-## Modern Uses
+# Sticking to Okra
 Malek Par. 3: Food, nutrition, cosmetics and medicine. image needed.
 Malek Par. 4: Perhaps this paragraph can be an extension of the first one; since medicine was a big focus in our research or the plant's potential health benefits, could we discuss some studies here that connect to those points? Image needed.
 
-## Okra's Physical Features:
-Mary Par. 6: Leaves: Used as a vegetable in West Africa and South Asia. Fruits (Pods): Boiled and eaten. Seeds: Ground and used as a coffee substitute or fuel source. Oil and Protein and its various uses. Colors: greens, yellows, reds Texture: stiff shiny or spiny fuzz. Image needed.
-
-## Okra's Future
-Mary Par. 7: Okra as biofuel. Image needed.
-Malek Par. 5: Maybe discussing climate change and food availability and how okra and other foods can be used to ensure food security in a changing world? Image needed.
-
-## Conclusion
+# Conclusion: The People's Vegetable
 Malek Par. 6: Perhaps a discussion on how okra’s historical life-saving and life-giving qualities can become modes for us to look towards our present and future. Image needed.
 	
 # References
