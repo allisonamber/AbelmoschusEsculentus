@@ -110,7 +110,15 @@ Malek Par. 2: Follow the slave trade across the <span data-mouseover-map-flyto=1
    	stroke-width="4">
 
 # The Significance of the Kitchen
-Allie Par. 3: This paragraph will tackle the ‘mammy’ trope in film, media, and culture. With examples such as Hattie McDaniel’s Oscar winning performance in Gone With the Wind and Aunt Jemima I will break down the history of these figures and what they mean for Black communities–particularly in the context of this stereotype being used to both mock and maintain white supremist ideology. 
+Allie Par. 3: A history of African American cookbooks.
+<param ve-knightlab-timeline
+	source="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Uh5J1yoqWEVYwmauJZ_iJCD-iWKgoeHcw5dQLcai6u8&font=Georgia-Helvetica&lang=en&initial_zoom=2&height=650"
+	timenav-position="bottom"
+	hash-bookmark="false”
+	initial-zoom="1"
+	height="750">
+
+Allie Par. 4: This paragraph will tackle the ‘mammy’ trope in film, media, and culture. With examples such as Hattie McDaniel’s Oscar winning performance in Gone With the Wind and Aunt Jemima I will break down the history of these figures and what they mean for Black communities–particularly in the context of this stereotype being used to both mock and maintain white supremist ideology. 
 <param ve-image
 	label="Hattie McDaniel, Olivia De Havilland, and Vivien Leigh"
  	description="Actresses on the set of *Gone With the Wind*"
@@ -118,7 +126,7 @@ Allie Par. 3: This paragraph will tackle the ‘mammy’ trope in film, media, a
 url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Gone_With_The_Wind_featuring_McDaniel_%26_de_Havilland_%26_Leigh.jpg/640px-Gone_With_The_Wind_featuring_McDaniel_%26_de_Havilland_%26_Leigh.jpg"
 	region="26,-38,610,570">
 
-Allie Par. 4: Following the history present in the previous paragraph, this paragraph will explore this racist dogma in action through the erasure of Black voices. I will draw on America’s first Southern cookbooks, their authors, their audiences, and the elephant in the room. This paragraph will draw heavily from Tipton-Martin’s historiography of African American cook books. I will also talk about how the Black community, mostly Black women, created much of what is associated with Southern cuisine and values to give credit where credit is due. There will also be mention of the first book by an African American ever (see final source). Okra as a staple ration on slave ships to keep enslaved peoples alive, common enslaved peoples private gardens and businesses, a reminder of home. Twitty states, "the Old South is a place where people use food to tell themselves who they are, and to tell stories about where they've been" (Twitty xii). And "In cooking, the style of southern food is more verb than adjective; it is the exercise of specific histories, not just the result" (8).
+Allie Par. 5: Following the history present in the previous paragraph, this paragraph will explore this racist dogma in action through the erasure of Black voices. I will draw on America’s first Southern cookbooks, their authors, their audiences, and the elephant in the room. This paragraph will draw heavily from Tipton-Martin’s historiography of African American cook books. I will also talk about how the Black community, mostly Black women, created much of what is associated with Southern cuisine and values to give credit where credit is due. There will also be mention of the first book by an African American ever (see final source). Okra as a staple ration on slave ships to keep enslaved peoples alive, common enslaved peoples private gardens and businesses, a reminder of home. Twitty states, "the Old South is a place where people use food to tell themselves who they are, and to tell stories about where they've been" (Twitty xii). And "In cooking, the style of southern food is more verb than adjective; it is the exercise of specific histories, not just the result" (8).
 <param ve-image
 	label="Mary Randolph, author of the _The Virginia House-Wife_"
 	description="Picture of Mary Randolph"
@@ -127,7 +135,7 @@ Allie Par. 4: Following the history present in the previous paragraph, this para
  	region="15,69,618,577">
 
 # Traditional Culinary Practices and Culture
-Allie Par. 5: Here I would like to dive into the history of the Gullah Geechee people who are often cited as helping define the African American dialect–including the term ‘Okra’ as we know it today. Taking from Megget’s cook books and sources on the Gullah peoples’ experiences under slavery and the doors their work opened for future generations. This paragraph will also set up the difficult relationship with farming and cooking that both Megget and Twitty discuss in their respective works. As well as themes of ancestral knowledge and reconnecting with the Earth through food.
+Allie Par. 6: Here I would like to dive into the history of the Gullah Geechee people who are often cited as helping define the African American dialect–including the term ‘Okra’ as we know it today. Taking from Megget’s cook books and sources on the Gullah peoples’ experiences under slavery and the doors their work opened for future generations. This paragraph will also set up the difficult relationship with farming and cooking that both Megget and Twitty discuss in their respective works. As well as themes of ancestral knowledge and reconnecting with the Earth through food.
 <param ve-image
 	label="Enslaved Gullah People Painting"
  	description="Painting of enslaved Gullah people on a South Carolina plantation"
@@ -135,14 +143,14 @@ Allie Par. 5: Here I would like to dive into the history of the Gullah Geechee p
    	url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Gullah_s_carolina_1790.jpg/640px-Gullah_s_carolina_1790.jpg"
 	region="-45,-136,732,684">
  
-Allie Par. 6: Following the thread presented in the previous paragraph, this one aims to discuss the benefits of mending one’s relationship with the past through the Earth. How cooking can heal physically, but more importantly in this context, emotionally. Connecting with your ancestry and dispelling stereotypes. This paragraph will gather everything from the last section and this section thus far to show ‘both sides of the nutmeg’ and ground our story. Touching on culture/community/the European hegemony/independence/the agricultural revolution.
+Allie Par. 7: Following the thread presented in the previous paragraph, this one aims to discuss the benefits of mending one’s relationship with the past through the Earth. How cooking can heal physically, but more importantly in this context, emotionally. Connecting with your ancestry and dispelling stereotypes. This paragraph will gather everything from the last section and this section thus far to show ‘both sides of the nutmeg’ and ground our story. Touching on culture/community/the European hegemony/independence/the agricultural revolution.
 <param ve-image
 	label="Michael Twitty"
  	description="Twitty on his “Southern Discomfort Tour” in front of a reconstructed cabin for enslaved people"
   	license="permission needed, in the works"
    	url="https://thecookinggene.files.wordpress.com/2012/06/jwd-somersetplace_46.jpg?w=1058&h=1586">
     
-Allie Par. 7: The many evolutions of okra soup, its cultural significance, and the gumbo debate in the South. Okra soup + Gumbo and Pepper Pot + Gnaouia and Bamia + Bhindi dishes (perhaps this section could talk about how okra continues to be an essential dish in the places where it was historically cultivated and eaten).
+Allie Par. 8: The many evolutions of okra soup, its cultural significance, and the gumbo debate in the South. Okra soup + Gumbo and Pepper Pot + Gnaouia and Bamia + Bhindi dishes (perhaps this section could talk about how okra continues to be an essential dish in the places where it was historically cultivated and eaten).
 <param ve-image
 	label="Okra Soup"
  	description="It's okra soup"
