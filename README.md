@@ -112,7 +112,7 @@ Malek Par. 2: Follow the slave trade across the <span data-mouseover-map-flyto=1
 # The Significance of the Kitchen
 Allie Par. 3: A history of African American cookbooks.
 <param ve-knightlab-timeline
-	source="d/1Uh5J1yoqWEVYwmauJZ_iJCD-iWKgoeHcw5dQLcai6u8/edit"
+	source="1Uh5J1yoqWEVYwmauJZ_iJCD-iWKgoeHcw5dQLcai6u8"
 	timenav-position="bottom"
 	hash-bookmark="false”
 	initial-zoom="1"
