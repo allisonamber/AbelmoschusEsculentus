@@ -114,7 +114,7 @@ Allie Par. 3: A history of African American cookbooks.
 
 Sample text for Iframe.
 <param ve-iframe
-	src="https://www.loc.gov/resource/rbc0001.2015pennell17897/?st=gallery">
+	src="https://babel.hathitrust.org/cgi/pt?id=nyp.33433017318605&seq=7">
 
 <param ve-knightlab-timeline
 	source="1Uh5J1yoqWEVYwmauJZ_iJCD-iWKgoeHcw5dQLcai6u8"
