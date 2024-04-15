@@ -34,15 +34,7 @@ Allie Par. 2: Okra as a cultural phenomenon. Twitty, "we had gumbo for every sea
        license="Public Domain"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Mr_Okra_on_Frenchmen.jpg/640px-Mr_Okra_on_Frenchmen.jpg"
        region="0,-37,595,556">
-
-Herb Alpert and Tijuana Brass, "Lady Fingers"
-<param ve-iframe
-	width="560"
-	height="315" 
-	frameborder="0" 
-	src="https://www.youtube.com/embed/l6U1JB7z-I8?si=A6GMLJhZ5coYkMs0" 
-	title="Herb Alpert and Tijuana Brass"
-	allowfullscreen>
+       
  Blah Blah
  <iframe src="https://www.youtube.com/embed/l6U1JB7z-I8?si=A6GMLJhZ5coYkMs0" 
     width="560" 
