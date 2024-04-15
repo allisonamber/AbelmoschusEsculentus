@@ -39,8 +39,10 @@ Herb Alpert and Tijuana Brass, "Lady Fingers"
 <param ve-iframe
 	width="560"
 	height="315" 
+	frameborder="0" 
 	src="https://www.youtube.com/embed/l6U1JB7z-I8?si=A6GMLJhZ5coYkMs0" 
-	title="Herb Alpert and Tijuana Brass">
+	title="Herb Alpert and Tijuana Brass"
+	allowfullscreen>
 
 # Okra: The Globetrotter
 Mary Par. 1: As an orphaned plant there is no officially origin attributed to Okra, but there is a strong history of its presence and culturally significance in Asia and Africa. Timeline will be inserted below.
