@@ -52,13 +52,14 @@ Herb Alpert and Tijuana Brass, "Lady Fingers"
 </iframe>
 
 Bing Bong
-<div class="embed-spotify-song">
-    <iframe src="https://open.spotify.com/track/7ubd6wvhN4TKMwQUy6hR69?si=84b8aa4bc2c344dd"  
-        frameborder="0" 
-        allowtransparency="true" 
-        allow="encrypted-media">
-    </iframe>
-</div>
+<iframe style="border-radius:12px" 
+	src="https://open.spotify.com/embed/track/7ubd6wvhN4TKMwQUy6hR69?utm_source=generator" 
+	width="100%" 
+	height="152" 
+	frameBorder="0" 
+	allowfullscreen="" 
+	allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+	loading="lazy"></iframe>
 
 # Okra: The Globetrotter
 Mary Par. 1: As an orphaned plant there is no officially origin attributed to Okra, but there is a strong history of its presence and culturally significance in Asia and Africa. Timeline will be inserted below.
