@@ -37,7 +37,7 @@ Allie Par. 2: Okra as a cultural phenomenon. Twitty, "we had gumbo for every sea
 
 Herb Alpert and Tijuana Brass, "Lady Fingers"
 <param ve-iframe
-	src="https://open.spotify.com/track/7ubd6wvhN4TKMwQUy6hR69?si=e9e7a9bc23104259">
+	src="https://youtu.be/l6U1JB7z-I8?feature=shared">
 
 # Okra: The Globetrotter
 Mary Par. 1: As an orphaned plant there is no officially origin attributed to Okra, but there is a strong history of its presence and culturally significance in Asia and Africa. Timeline will be inserted below.
