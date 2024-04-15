@@ -44,6 +44,12 @@ Allie Par. 2: Okra as a cultural phenomenon. Twitty, "we had gumbo for every sea
 </iframe>
 
 Bing Bong
+<param ve-image 
+       label="Okra Flower" 
+       description="Flower" 
+       license="Public Domain"
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Abelmoschus_esculentus%2C_bunga_okra.jpg/640px-Abelmoschus_esculentus%2C_bunga_okra.jpg"
+       region="0,-37,595,556">
 <iframe style="border-radius:12px" 
 	src="https://open.spotify.com/embed/track/7ubd6wvhN4TKMwQUy6hR69?utm_source=generator" 
 	width="100%" 
