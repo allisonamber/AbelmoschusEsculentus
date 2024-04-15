@@ -112,7 +112,7 @@ Malek Par. 2: Follow the slave trade across the <span data-mouseover-map-flyto=1
 # The Significance of the Kitchen
 Allie Par. 3: A history of African American cookbooks. 
 
-Sample text for Iframe.
+Sample text for IFrame.
 <param ve-iframe
 	src="https://babel.hathitrust.org/cgi/pt?id=nyp.33433017318605&seq=7">
 
