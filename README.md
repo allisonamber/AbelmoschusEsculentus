@@ -27,13 +27,17 @@ Allie Par. 1: While not officially recognized by the University, students, staff
 	url="https://deltastatement.com/wp-content/uploads/2017/04/0416okra1.jpg"
  	region="121,3,613,532">
 
-Allie Par. 2: Okra as a cultural phenomenon. Twitty, "we had gumbo for every season and every occasion. meatless gumbos for Lent, gumbos for duck, crawfish, shrimp, oysters, whatever was in season; filé gumbo when there was no okra, okra gumbo when there was no filé--gumbos for weddings, for funerals [...] it told you what time it was" (Twitty 196).
+Allie Par. 2: Okra as a cultural phenomenon. Twitty, "we had gumbo for every season and every occasion. meatless gumbos for Lent, gumbos for duck, crawfish, shrimp, oysters, whatever was in season; filé gumbo when there was no okra, okra gumbo when there was no filé--gumbos for weddings, for funerals [...] it told you what time it was" (Twitty 196) [^Ref 1].
 <param ve-image 
        label="Mr. Okra" 
        description="photo from Whole Heartily" 
        license="Public Domain"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Mr_Okra_on_Frenchmen.jpg/640px-Mr_Okra_on_Frenchmen.jpg"
        region="0,-37,595,556">
+
+Herb Alpert and Tijuana Brass, "Lady Fingers"
+<param ve-iframe
+	src="https://open.spotify.com/track/7ubd6wvhN4TKMwQUy6hR69?si=e9e7a9bc23104259">
 
 # Okra: The Globetrotter
 Mary Par. 1: As an orphaned plant there is no officially origin attributed to Okra, but there is a strong history of its presence and culturally significance in Asia and Africa. Timeline will be inserted below.
@@ -174,5 +178,5 @@ Malek Par. 4: Perhaps this paragraph can be an extension of the first one; since
 Malek Par. 6: Perhaps a discussion on how okra’s historical life-saving and life-giving qualities can become modes for us to look towards our present and future. Image needed.
 	
 # References
-
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+[^Ref 1]: [_The Cooking Gene by Michael Twitty] (https://thecookinggene.com/)
+[^2]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
