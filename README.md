@@ -178,5 +178,5 @@ Malek Par. 4: Perhaps this paragraph can be an extension of the first one; since
 Malek Par. 6: Perhaps a discussion on how okra’s historical life-saving and life-giving qualities can become modes for us to look towards our present and future. Image needed.
 	
 # References
-[^Ref 1]: [The Cooking Gene by Michael Twitty] (https://thecookinggene.com/)
+[^Ref 1]: [The Cooking Gene by Michael Twitty](https://thecookinggene.com/)
 [^2]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
