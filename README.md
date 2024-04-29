@@ -36,6 +36,13 @@ Malek Par. 1: Okra’s earliest days are hard to track, as the plant is a cultig
 url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mozambican_Men_and_Women_Selling_Okra_and_other_vegetables.jpg/640px-Mozambican_Men_and_Women_Selling_Okra_and_other_vegetables.jpg">
  
 Malek Par. 2: Okra first entered the written record through Arabic as bamiya in the 1216 pharmaceutical text Kitāb al-Jāmiʿ li-Mufradāt al-Adwiya wa-l-Aghdhiya. In it, Ibn al-Baytar, an Andalusian botanist, physician and scientist, compiled a catalog of 1400 plants, including information about their characteristics and their traditional uses. For okra’s description, Al-Baytar referenced the words of his teacher,  Abu al-Abbas al-Nabati, who encountered the vegetable on a visit to Egypt in 1216 CE (Smith 12). He compared the plant and its “black” and “sweet” fruit to hibiscus trees in Al-Andalus and particularly references the red of its flowers. This section ended with a culinary emphasis, describing how “the people of Egypt'' ate and prepared bamiya with meat and “hot spices” (Al-Baytar 111). Today, a comparable dish called bamiya (in Egypt and Western Asia) or ganaouiya (in Northwest Africa) is still cooked and eaten. In this enduring culinary tradition, cooks continue to pair the vegetable with protein in a slow-cooked and highly spiced stew. 
+
+<param ve-image
+       label="Kitāb al-Jāmiʿ li-Mufradāt al-Adwiya wa-l-Aghdhiya"
+       description="Photo by LouisAragon"
+       license="public domain"
+url="https://upload.wikimedia.org/wikipedia/commons/e/e0/Diya%27_al-Din_Abu_Muhammad_%E2%80%98Abdullah_ibn_Ahmed_al-Malaqi%2C_known_as_Ibn_Al-Baytar_%28d.1248%29%2C_Kitab_al-jami%27_li-mufradat_al-adwiyah_wa%27l-aghdhiyah_%28%27The_Compendium_on_Simple_Drugs_and_Foodstuffs%27%29%2C_Near_East%2C_circa_1300_AD.jpg">
+
 <param ve-map
 	center="7.4333, 3.2833"
 	zoom="2"
