@@ -43,6 +43,10 @@ url="https://upload.wikimedia.org/wikipedia/commons/e/e0/Diya%27_al-Din_Abu_Muha
  
 Malek Par. 2: Okra first entered the written record through Arabic as bamiya in the 1216 pharmaceutical text Kitāb al-Jāmiʿ li-Mufradāt al-Adwiya wa-l-Aghdhiya. In it, Ibn al-Baytar, an Andalusian botanist, physician and scientist, compiled a catalog of 1400 plants, including information about their characteristics and their traditional uses. For okra’s description, Al-Baytar referenced the words of his teacher,  Abu al-Abbas al-Nabati, who encountered the vegetable on a visit to Egypt in 1216 CE (Smith 12). He compared the plant and its “black” and “sweet” fruit to hibiscus trees in Al-Andalus and particularly references the red of its flowers. This section ended with a culinary emphasis, describing how “the people of Egypt'' ate and prepared bamiya with meat and “hot spices” (Al-Baytar 111). Today, a comparable dish called bamiya (in Egypt and Western Asia) or ganaouiya (in Northwest Africa) is still cooked and eaten. In this enduring culinary tradition, cooks continue to pair the vegetable with protein in a slow-cooked and highly spiced stew. 
 
+<param ve-iframe
+	src="https://archive.org/details/1_20210320_20210320_0857/%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%20%D9%84%D9%85%D9%81%D8%B1%D8%AF%D8%A7%D8%AA%20%D8%A7%D9%84%D8%A3%D8%AF%D9%88%D9%8A%D8%A9%20%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%AF%D9%8A%D8%A9%20%D8%A5%D8%A8%D9%86%20%D8%A7%D9%84%D8%A8%D9%8A%D8%B7%D8%A7%D8%B1%D8%AC%201/mode/2up?view=theater&ui=embed&wrapper=false">
+
+
 <param ve-map
 	center="7.4333, 3.2833"
 	zoom="2"
