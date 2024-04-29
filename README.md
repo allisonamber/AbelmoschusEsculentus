@@ -89,7 +89,7 @@ Malek Par. 4: These gardens are a testament to the knowledge of plants and culti
 	show-labels
 	stroke-width="0">
 <param ve-map-marker
-	url="https://upload.wikimedia.org/wikipedia/commons/b/b6/Du_bamia_avec_du_riz_en_f%C3%A9vrier_2022.jpg"
+url="https://upload.wikimedia.org/wikipedia/commons/b/b6/Du_bamia_avec_du_riz_en_f%C3%A9vrier_2022.jpg"
 	coords="36.89054761602349, 10.322687034859703"
 	size="512, 328" 
 	circle="true">
@@ -100,6 +100,7 @@ Allie Par. 2: Such a connection is exemplified through the achievements of famed
 	label="Jefferson's Monticello Plantation in VA"
 	description="Monticello"
 	license="CC SA 3.0"
+	region="109,-49,411,435"
 url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Thomas_Jefferson%27s_Monticello.JPG/640px-Thomas_Jefferson%27s_Monticello.JPG">
 
 Allie Par. 3: While the Old South’s identity was built on the backs of enslaved families, farmers, caregivers, and fieldhands, their work was often appropriated by their white counterparts. White women such Mary Randolph were trailblazers in the developing a new literary genre–cookbooks–with her 1824 book The Virginian House-Wife which outlines tips and tricks to aid women in their home-keeping, child-rearing, and Southern cooking endeavors. While extremely influential at the time, the book failed to make any mention of the other women in the room, the enslaved Black people bearing the bulk of the burden. As Egerton notes, “it was rare for the [cook] books to acknowledge Blacks’ presence at all [...] But, in fact, their contributions were enormous–and the more latitude they were given to cook creatively and to manage kitchens, the more their excellence blossomed” (Egerton X). Though today, several historians have noted this oversight in early cookbooks and have made efforts to return credit to the many African-born dishes and practices that define the South. Additional mention of the first cookbook by an African American woman.
@@ -114,6 +115,7 @@ Malek Par. 5: In 1918, George Washington Carver, an agricultural scientist born 
 <param ve-image
 	label="George Washington Carver"
  	license="public domain"
+	region="-50,0,741,785"
   	url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/George_Washington_Carver_c1910_-_Restoration.jpg/640px-George_Washington_Carver_c1910_-_Restoration.jpg">
 
 Allie Par. 4: In keeping with an Old Southern tradition of minstrelsy, depictions of a buxom Black woman, the plantation’s ‘Mammy,’ tending to the kitchen offered little grace to the hardworking people forced to carry out this unethical labor. Aunt Jemima, the name and mascot of the Pearl Milling Company from its initial ad campaign in the 1930s to its rebrand in 2020. The racist caricature sold recipes and cooking products advertising to their white customers the notion that the work is easy enough for a slave to do. Therefore, as Tipton-Martin argues, “historically, the Jemima Code was an arrangement of words and images synchronized to classify the character and life’s work of our nation’s Black cooks as insignificant. The encoded message assumes that Black chefs, cooks, and cookbook authors–by virtue of their race and gender–are simply born with good kitchen instincts, diminishes knowledge, skills, and portrays them as passive and ignorant laborers incapable of creative culinary artistry” (Tipton-Martin 2).
@@ -121,6 +123,7 @@ Allie Par. 4: In keeping with an Old Southern tradition of minstrelsy, depiction
 	label="Aunt Jemima"
 	description="Aunt Jemima pancake box advertisement"
  	license="public domain"
+	region="-12,-140,666,705"
   	url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Aunt_Jemima_-_America%27s_Best-Loved_Pancakes%2C_1951.jpg/640px-Aunt_Jemima_-_America%27s_Best-Loved_Pancakes%2C_1951.jpg">
 
 Allie Par. 5: In the wake of the Civil Rights Movement, “‘soul food” came into vogue in the 1960s as African Americans migrating from country to city turned to comforting classic dishes that satisfied their longing for a taste of home” (Tipton-martin 80) and thereby inspiring a intact in the fight for equality. Thus, the late sixties through the seventies marks a rise in African American cookbooks returning to their ancestral roots. Cookbooks such as Hattie Rhinehart’s 1969 Soul Food Cookbook expresses the traditions and practices through food emblematic of ‘home.’ Rhinehart Griffin’s take on ‘fried okra’ can be found on page twenty five thereby honoring her culture’s African roots and Southern roots simultaneously. 
@@ -128,6 +131,7 @@ Allie Par. 5: In the wake of the Civil Rights Movement, “‘soul food” came 
 	label="Fried Okra"
  	description="A plate of fried okra from the Praline Connection restaurant"
   	license="CC SA 4.0"
+	region="0,-93,630,667"
 url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Praline_Connection_New_Orleans_Sept_2018_Fried_Okra.jpg/640px-Praline_Connection_New_Orleans_Sept_2018_Fried_Okra.jpg">
   
 # Honoring Ancestry
@@ -149,9 +153,6 @@ Allie Par. 7: Today, Black chefs are still navigating this complex relationship 
   	license="CC SA 2.0"
 url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Gumbo_%281027297591%29.jpg/640px-Gumbo_%281027297591%29.jpg">
 
-Allie Par. 5: Following the history present in the previous paragraph, this paragraph will explore this racist dogma in action through the erasure of Black voices. I will draw on America’s first Southern cookbooks, their authors, their audiences, and the elephant in the room. This paragraph will draw heavily from Tipton-Martin’s historiography of African American cook books. I will also talk about how the Black community, mostly Black women, created much of what is associated with Southern cuisine and values to give credit where credit is due. There will also be mention of the first book by an African American ever (see final source). Okra as a staple ration on slave ships to keep enslaved peoples alive, common enslaved peoples private gardens and businesses, a reminder of home. Twitty states, "the Old South is a place where people use food to tell themselves who they are, and to tell stories about where they've been" (Twitty xii). And "In cooking, the style of southern food is more verb than adjective; it is the exercise of specific histories, not just the result" (8).
-
-
 # Traditional Culinary Practices and Culture
 Allie Par. 6: Here I would like to dive into the history of the Gullah Geechee people who are often cited as helping define the African American dialect–including the term ‘Okra’ as we know it today. Taking from Megget’s cook books and sources on the Gullah peoples’ experiences under slavery and the doors their work opened for future generations. This paragraph will also set up the difficult relationship with farming and cooking that both Megget and Twitty discuss in their respective works. As well as themes of ancestral knowledge and reconnecting with the Earth through food.
 <param ve-image
@@ -162,10 +163,11 @@ Allie Par. 6: Here I would like to dive into the history of the Gullah Geechee p
 	region="-45,-136,732,684">
 
 # Conclusion: The People's Vegetable
-Allie Par. 7: Through farming, cooking, and eating centuries of African Americans have reinforced the strength and conviction necessary in the wake of so much hardship. Okra acts as one of the closest connections to life in Africa, a life that was ripped away from so many, and with the help of its cultivators in the American South it came to thrive. Thus, okra and its cultivators, cooks, and eaters share a kind of symbiosis as their individual work comes together to invigorate and inspire the other. In short, okra’s high yields and adaptable temperament gave power to the marginalized communities farming it by giving it a crop they can rely on in good times and bad. The power shared between okra and its culinary community is a unique one that has endured migration across continents and across time; it is one that demands respect, attention, and credit for all that they have achieved together in the name of home, heritage, and strength.
+Allie Par. 8: Through farming, cooking, and eating centuries of African Americans have reinforced the strength and conviction necessary in the wake of so much hardship. Okra acts as one of the closest connections to life in Africa, a life that was ripped away from so many, and with the help of its cultivators in the American South it came to thrive. Thus, okra and its cultivators, cooks, and eaters share a kind of symbiosis as their individual work comes together to invigorate and inspire the other. In short, okra’s high yields and adaptable temperament gave power to the marginalized communities farming it by giving it a crop they can rely on in good times and bad. The power shared between okra and its culinary community is a unique one that has endured migration across continents and across time; it is one that demands respect, attention, and credit for all that they have achieved together in the name of home, heritage, and strength.
 <param ve-image
 	label="Okra's Herbarium Specimen"
  	license="CCBY"
+	region="-70,54,1042,1103"
 url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Abelmoschus_moschatus_Medik._%28AM_AK28139%29.jpg/900px-Abelmoschus_moschatus_Medik._%28AM_AK28139%29.jpg?20171231234827">
 	
 # References
