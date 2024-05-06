@@ -19,21 +19,20 @@
        region="-172,94,862,701">
 
 # The Fighting Okra
-Allie Par. 1: While okra does not always have the best reputation–often due to its slimy texture–the globetrotting vegetable is never stripped from its strength and resilience. So much so, that approximately twenty years ago Delta State University in Mississippi rejected their official mascot the ‘Statesman’ to adopt the ‘Fighting Okra.’ Initially, the University did not take to the mighty vegetable, but now many of the institution's programs and activities are centered around their unofficial mascot such as the ‘Okra Kard’ meal plan, ‘Fighting Okra Records,’ a student-run university record label, and ‘Okra Out,’ the annual pride celebration. The student body of DSU called for a new mascot, one that represented their southern roots, and their attitude on the court, and there was no better candidate than the Fighting Okra. Taking the suggestion in stride, the university won the hearts of their students and the college sports community at large with videos of the Fighting Okra going viral. These videos highlight the school and their athletes but also exemplify the mythos surrounding the okra plant: one of determination, of grit, and of strength. And they are not alone in this perception, in fact, okra has a long biological and cultural history embodying the very characteristics DSU portrays in their mascot. The okra itself is an easy to grow, highly diverse plant useful from flower to fruit that has acted as a staple in kitchens around the world. Chris Smith, in his book dedicated to okra, calls on an excerpt from the Lost Crops of Africa, “A perfect villager’s vegetable, okra (Abelmoschus esculentus, Malvaceae) is robust, productive, fast-growing, high yielding, and seldom felled by pests and diseases. It adapts to difficult conditions and can thrive where other food plants prove unreliable” (Smith 10). This is especially true during migration–both voluntary and forced. From its cultivators in Africa, Asia, and the United States, okra has long been a staple for many of these travelers’ diets. Despite its ticklish fibers and sticky slimy texture, the crop has evolved into a cultural phenomenon that communities around the world continue to ‘stick to’ as a treasured reminder of home, heritage, and community strength. [^Ref 1]
+Allie Par. 1: While Okra doesn’t always have the best reputation–often due to misconceptions about its slimy texture–depictions of the globetrotting vegetable are never severed from its strength and dependability. So much so, approximately twenty years ago Mississippi’s Delta State University’s student body collectively rejected the school’s official mascot ‘the Statesman.’ Instead, the students called for a new mascot, one that paid homage to their southern roots and represented their teams athletic prowess. Although the university didn’t initially take to the mighty vegetable eventually this would change as the ‘Fighting Okra’ became the face of various campus activities, locations, and practices. In recent years, the adoption of the okra as their mascot has garnered interest in the small southern university with videos of the Fighting Okra going viral online. Videos such as the Fighting Okra pushing a DSU swimmer into a faster lap time with interestingly intimidating threats thereby exemplifying the mythos surrounding the okra. And DSU isn’t alone, in fact, okra’s biological characteristics have inspired cultures internationally for centuries. In fact, DSU’s mascot is emblematic of a larger historical relationship communities around the world have with this easy-to-grow, highly diverse plant from this fruit to flower. The Lost Crops of Africa describes the okra as the “perfect villager’s vegetable” because it’s “robust, productive, fast-growing, high yielding, and seldom felled by pests and diseases. It adapts to difficult conditions and can thrive where other food plants prove unreliable”. In other words, okra’s dependable biological characteristics has inspired profound respect for the vegetable for centuries. In turn, okra has become indispensable from its ties to home, heritage, and community strength. Thus, despite its ticklish fibers and sticky slimy texture, the crop has evolved into a cultural phenomenon that communities around the world continue to ‘stick to’ as a treasured reminder of home, heritage, and community strength.
+ [^Ref 1]
 <param ve-image
 	label="Delta University's Mascot: The Fighting Okra"
 	description="Mississippi University Mascot"
-	license="Restricted, need permission"
-	url="https://deltastatement.com/wp-content/uploads/2017/04/0416okra1.jpg"
- 	region="121,3,613,532">
-
-#Origins
-
+	license="Public Domain"
+	url="https://youtu.be/pS589zKAlnY?feature=shared">
+ 
+# Origins
 Malek Par. 1: Okra (from the Igbo word okuru), or by its scientific name Abelmoschus escultenus, is a cultigen or a plant species that humans have selected for cultivation with no discernable wild ancestor. Okra hails from the Mallow family, sharing ties with plants such as hibiscus and cotton. In appearance, okra very closely resembles the hibiscus plant, and it was often mistaken for hibiscus in early botanical texts. Okra rises from the ground and branches into green leaves and pale yellow and red flowers, complemented by long green vegetable sprouts that hold seeds within. The plant’s premodern zone of cultivation is based in the tropics and subtropics of the eastern hemisphere, extending from Southeast Asia to West Africa. In terms of its precise origins, scientists have often theorized it to be the descendant of an older species originating in either East Africa or South and Southeast Asia. Chris Smith suggests that the Asian origin story is the more likely one as the “wild relative” of okra to which its East African origin is often attributed also grew in adjacent regions of Asia in prehistory. In spite of these theories, okra’s precise origins remain unknown. Regardless, African communities extending from the Horn of Africa to the shores of West Africa have cultivated the plant for thousands of years. From Africa, we can begin to trace okra’s journey from prehistoric cultivation to an international symbol of African diasporic survival, resilience, and cultural continuity. 
 
 <param ve-image 
        title="Abelmoschus Esculentus" 
-       url="https://upload.wikimedia.org/wikipedia/commons/b/bf/Abelmoschus_esculentus.jpg?20050625103651"
+url="https://upload.wikimedia.org/wikipedia/commons/b/bf/Abelmoschus_esculentus.jpg?20050625103651"
        label="Bill Tarpenning, USDA" 
        description="Photo of Okra Plant"
        license="Public Domain - US Government">
@@ -61,7 +60,7 @@ Malek Par. 4: Okra’s journey from Africa to the Americas begins in the decades
 	Title="Southern States"
 	prefer-geojson>
 <param ve-map-layer geojson
-	url="https://raw.githubusercontent.com/allisonamber/AbelmoschusEsculentus/main/americansouthoverlay.json"
+url="https://raw.githubusercontent.com/allisonamber/AbelmoschusEsculentus/main/americansouthoverlay.json"
 	show-labels
 	stroke-width="0">
 <param ve-map-marker
@@ -98,7 +97,8 @@ url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Historia_Naturali
        license="Public Domain">
 
 # The Significance of The Kitchen 
-Allie Par. 2: Such a connection is exemplified through the achievements of famed enslaved cook James Hemings. Hemings arrived at the Jefferson plantation in Monticello, Virginia at nine along with his mother and siblings. With time, the young man proved to be particularly valuable in the kitchen where his culinary creations betrayed great skill and promise. Thus, upon the President’s trip to Europe in 1784, the Jeffersons’ instructed Heming to travel to Paris and receive a proper education in French cooking. His success in doing so would mark the first time any American, but especially an African American with no knowledge of the French language, earned this accreditation. The knowledge Hemings brought with him back home blossomed into a long and highly regarded culinary career allowing for the introduction of french fries, ice cream, macaroni-and-cheese, crème brûlée, and other French culinary staples to the States. 
+Allie Par. 2: One such legacy is that of James Heming, the head chef at President Jefferson’s Monticello plantation. Though he only arrived at the plantation as a boy among the many other enslaved persons living and working in Monticello. With time Hemings proved to be most adept with culinary work. By 1784, the Jeffersons rewarded his great culinary skills by accompanying them to Europe and instructing the young chef to receive proper education from a Parisian cooking school. Upon the completion of his education Hemings would not only be the first American to do so, but it would also result in him introducing several French dishes into the United States.
+ 
 <param ve-image
 	label="Jefferson's Monticello Plantation in VA"
 	description="Monticello"
@@ -106,12 +106,12 @@ Allie Par. 2: Such a connection is exemplified through the achievements of famed
 	region="109,-49,411,435"
 url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Thomas_Jefferson%27s_Monticello.JPG/640px-Thomas_Jefferson%27s_Monticello.JPG">
 
-Allie Par. 3: While the Old South’s identity was built on the backs of enslaved families, farmers, caregivers, and fieldhands, their work was often appropriated by their white counterparts. White women such Mary Randolph were trailblazers in the developing a new literary genre–cookbooks–with her 1824 book The Virginian House-Wife which outlines tips and tricks to aid women in their home-keeping, child-rearing, and Southern cooking endeavors. While extremely influential at the time, the book failed to make any mention of the other women in the room, the enslaved Black people bearing the bulk of the burden. As Egerton notes, “it was rare for the [cook] books to acknowledge Blacks’ presence at all [...] But, in fact, their contributions were enormous–and the more latitude they were given to cook creatively and to manage kitchens, the more their excellence blossomed” (Egerton X). Though today, several historians have noted this oversight in early cookbooks and have made efforts to return credit to the many African-born dishes and practices that define the South. Additional mention of the first cookbook by an African American woman.
+Allie Par. 3: Though limited in comparison to his white counterparts, the warm reception Hemings received for his work was highly uncommon for an enslaved person. In fact, the Old South historically tried to deny the contributions African Americans have made to their cuisine. For instance, the highly regarded American cookbook, _The Virginia House-wife_, in part claimed the techniques, practices, and recipes of the enslaved people doing this housework without ever acknowledging their contributions. 
 <param ve-image
 	label="Mary Randolph, author of the _The Virginia House-Wife_"
 	description="Picture of Mary Randolph"
 	license="public domain"
-	url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mrs._David_Meade_Randolph%2C_head-and-shoulders_portrait%2C_right_profile_LCCN2007677865.jpg/640px-Mrs._David_Meade_Randolph%2C_head-and-shoulders_portrait%2C_right_profile_LCCN2007677865.jpg"
+url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mrs._David_Meade_Randolph%2C_head-and-shoulders_portrait%2C_right_profile_LCCN2007677865.jpg/640px-Mrs._David_Meade_Randolph%2C_head-and-shoulders_portrait%2C_right_profile_LCCN2007677865.jpg"
  	region="15,69,618,577">
   
 Malek Par. 7: In 1918, George Washington Carver, an agricultural scientist born during enslavement, also contributed his own okra recipe to the culinary record. By that point, Carver had already made lasting contributions to American agricultural science, namely through his scientific studies of agricultural practices connected to the cultivation of okra and other community garden crops, as well as ways through which okra fibers could be used to make “rugs” and “rope.” In Carver’s personal writings and correspondences, his love of okra is particularly striking, recurring in letters from 1907-1914 between himself and fellow American botanist Louis Herman Pammel. In Carver’s 1918 okra recipe, he combines the sliced vegetable with tomatoes, rice, and other vegetables to make a soup.
@@ -120,9 +120,9 @@ Malek Par. 7: In 1918, George Washington Carver, an agricultural scientist born 
 	label="George Washington Carver"
  	license="public domain"
 	region="-50,0,741,785"
-  	url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/George_Washington_Carver_c1910_-_Restoration.jpg/640px-George_Washington_Carver_c1910_-_Restoration.jpg">
+  url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/George_Washington_Carver_c1910_-_Restoration.jpg/640px-George_Washington_Carver_c1910_-_Restoration.jpg">
 
-Allie Par. 4: In keeping with an Old Southern tradition of minstrelsy, depictions of a buxom Black woman, the plantation’s ‘Mammy,’ tending to the kitchen offered little grace to the hardworking people forced to carry out this unethical labor. Aunt Jemima, the name and mascot of the Pearl Milling Company from its initial ad campaign in the 1930s to its rebrand in 2020. The racist caricature sold recipes and cooking products advertising to their white customers the notion that the work is easy enough for a slave to do. Therefore, as Tipton-Martin argues, “historically, the Jemima Code was an arrangement of words and images synchronized to classify the character and life’s work of our nation’s Black cooks as insignificant. The encoded message assumes that Black chefs, cooks, and cookbook authors–by virtue of their race and gender–are simply born with good kitchen instincts, diminishes knowledge, skills, and portrays them as passive and ignorant laborers incapable of creative culinary artistry” (Tipton-Martin 2).
+Allie Par. 4: Despite the significant scientific and culinary achievements reached by African Americans like Malinda Russell and George Washington Carver, by the 1930s the entertainment and advertising businesses began pushing a very contradictory image of Black people. One notable figure that would emerge from minstrelsy, is the racist caricature of a Black cook, Aunt Jemima. Aunt Jemima is a ‘mammy’ created by, who is now known as, the Pearl Milling Company spanning nearly 100 years to sell recipes and cooking products to a largely white customer base. Implicitly selling customers the notion, as James Beard winning food historian Toni Tipton-Martin claims, the culinary labor required for their products is easy enough for a slave to do. Thereby undermining the generations of forced labor and cultural knowledge required to foster the culinary skills misrepresented by white media.
 <param ve-image
 	label="Aunt Jemima"
 	description="Aunt Jemima pancake box advertisement"
@@ -130,7 +130,7 @@ Allie Par. 4: In keeping with an Old Southern tradition of minstrelsy, depiction
 	region="-12,-140,666,705"
   	url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Aunt_Jemima_-_America%27s_Best-Loved_Pancakes%2C_1951.jpg/640px-Aunt_Jemima_-_America%27s_Best-Loved_Pancakes%2C_1951.jpg">
 
-Allie Par. 5: In the wake of the Civil Rights Movement, “‘soul food” came into vogue in the 1960s as African Americans migrating from country to city turned to comforting classic dishes that satisfied their longing for a taste of home” (Tipton-martin 80) and thereby inspiring a intact in the fight for equality. Thus, the late sixties through the seventies marks a rise in African American cookbooks returning to their ancestral roots. Cookbooks such as Hattie Rhinehart’s 1969 Soul Food Cookbook expresses the traditions and practices through food emblematic of ‘home.’ Rhinehart Griffin’s take on ‘fried okra’ can be found on page twenty five thereby honoring her culture’s African roots and Southern roots simultaneously. 
+Allie Par. 5: However, in the wake of the Civil Rights Movement Black communities took matters in their own hands to contest this gross misrepresentation. In the later 1960s into the 1970s soul food dishes such ‘fried okra’ began to surge in popularity again due to a wave of African Americans migrating up north. The longing for home birthed a movement of Black authored soul food cookbooks like Hattie Rhinehart-Griffin’s 1969 _Soul-Food CookBook_ which called on recipes and ingredients that epitomized ‘home.’ For instance, Rhinehart-Griffin’s take on fried okra simultaneously pays homage to both her African and Southern roots. 
 <param ve-image
 	label="Fried Okra"
  	description="A plate of fried okra from the Praline Connection restaurant"
@@ -139,35 +139,22 @@ Allie Par. 5: In the wake of the Civil Rights Movement, “‘soul food” came 
 url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Praline_Connection_New_Orleans_Sept_2018_Fried_Okra.jpg/640px-Praline_Connection_New_Orleans_Sept_2018_Fried_Okra.jpg">
   
 # Honoring Ancestry
-Allie Par. 6: The tumultuous relationship between African Americans and the kitchen quickly became a symbol of generational trauma and culturally persistent racist falsities and yet, many Black chefs, have for generations, worked to repair their community’s relationship to the kitchen. A great deal of that work has been accredited to the communities of Gullah Geechee peoples adapting their indigenous knowledge from Africa to the ‘New World.’ There is no better representation of this very work than Emily Meggett’s discussion in her Gullah GeeChee cookbook in which she states, “slavery corrupted our ancestors’ relationship with the Earth. [...] But we must remember our history beyond slavery. Before we were American, before we were enslaved, we were a people with an identity and culture that worked in collaboration with the earth, and benefited from its offerings. We are for the land, and it cared for us [...] These recipes reflect this lifelong journey, and my love of what the earth continues to give us” (Meggett 95). Here, Meggett exemplifies a reverent  attitude towards cooking and the many gifts it bestows on its practitioners between connecting them to the Earth and to their culture that has informed generations of African Americans’ language, culture, and behaviors.
-<param ve-iframe
-	src="https://babel.hathitrust.org/cgi/pt?id=nyp.33433017318605&seq=7">
-
-<param ve-knightlab-timeline
-	source="1Uh5J1yoqWEVYwmauJZ_iJCD-iWKgoeHcw5dQLcai6u8"
-	timenav-position="bottom"
-	hash-bookmark="false”
-	initial-zoom="1"
-	height="750">
-
-Allie Par. 7: Today, Black chefs are still navigating this complex relationship with the kitchen, while still honoring their ancestry. Marcus Samuelsson’s cookbook The Rise: Black Cooks and the Soul of American Food, deeply influenced by the 2020 BLM protests, speaks to his relationship with cooking and the message he wishes to inspire in others. He emphasizes ‘The Rise’ stands on three pillars: authorship, memory, and aspiration which talk of claiming the long unacknowledged contributions to American cuisine and culture, paying respect to ancestry, and celebrating modern-day Black creatives (Samuelsson xiii). Hallmarks exemplified throughout the cookbook as Samuelsson shares recipes that pay homage to okra’s African roots with dishes such as “Leah Chase Gumbo” (Samuelsson 222). Thereby, Samuelsson threatens the centuries old stereotype of Black cooks and their cuisine, reminding readers that “black food is not monolithic” (xiii), but a complex network of diverse and delicious foods. His work demonstrates how adopting such a mentality can heal generational wounds and inspire the creativity that has been erased and undermined for far too long. 
+Allie Par. 6: Today, Black chefs are taking this message a bit further by expanding the zeitgeist’s idea of ‘Black food.’ Famed chef, Marcus Samuelsson, pays tribute to modern Black chefs, creatives, and food historians in his cookbook _The Rise: Soul of American Food_, with dishes that represent the large catalog of Black cuisine. Noteworthy among them is his take a southern tradition with the “Leah Chase Gumbo” recipe in honor of American chef, Leah Chase, in which Samuelsson crafts a classic dish with okra at the center. Thus, his work underscores the complex network of diverse, nutritional, and delicious recipes crafted by Black chefs.
 <param ve-image
 	label="Gumbo"
- 	description="Okra Gumbo"
-  	license="CC SA 2.0"
+ 	License="CC SA 2.0"
 url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Gumbo_%281027297591%29.jpg/640px-Gumbo_%281027297591%29.jpg">
 
-# Traditional Culinary Practices and Culture
-Allie Par. 6: Here I would like to dive into the history of the Gullah Geechee people who are often cited as helping define the African American dialect–including the term ‘Okra’ as we know it today. Taking from Megget’s cook books and sources on the Gullah peoples’ experiences under slavery and the doors their work opened for future generations. This paragraph will also set up the difficult relationship with farming and cooking that both Megget and Twitty discuss in their respective works. As well as themes of ancestral knowledge and reconnecting with the Earth through food.
+Allie Par. 6: Half a century later, Black chefs are still working to undo the damage done by racist caricatures like Aunt Jemima and the widespread generational trauma in taking up the culinary work once done against their ancestor’s will. The famed Gullah Geechee matriarch, Emily Meggett, published her 2022 cookbook with the aim of honoring her ancestry and repairing her peoples’ relationship with cooking and harvesting food. To do so, Meggett calls on okra, black-eyed peas, corn, and others to illuminate the beauty of traditional African American cuisine and to remind her readers, “before we were American, before we were enslaved, we were a people with an identity and culture that worked in collaboration with the earth, and benefited from its offerings.”  The reverence Meggett displays in her cookbook therefore exemplifies the very attitude the soul food movement hoped to foster–one of respect and admiration for the food that helped them navigate a traumatic past.
 <param ve-image
 	label="Enslaved Gullah People Painting"
  	description="Painting of enslaved Gullah people on a South Carolina plantation"
   	license="public domain"
-   	url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Gullah_s_carolina_1790.jpg/640px-Gullah_s_carolina_1790.jpg"
+   url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Gullah_s_carolina_1790.jpg/640px-Gullah_s_carolina_1790.jpg"
 	region="-45,-136,732,684">
 
 # Conclusion: The People's Vegetable
-Allie Par. 8: Through farming, cooking, and eating centuries of African Americans have reinforced the strength and conviction necessary in the wake of so much hardship. Okra acts as one of the closest connections to life in Africa, a life that was ripped away from so many, and with the help of its cultivators in the American South it came to thrive. Thus, okra and its cultivators, cooks, and eaters share a kind of symbiosis as their individual work comes together to invigorate and inspire the other. In short, okra’s high yields and adaptable temperament gave power to the marginalized communities farming it by giving it a crop they can rely on in good times and bad. The power shared between okra and its culinary community is a unique one that has endured migration across continents and across time; it is one that demands respect, attention, and credit for all that they have achieved together in the name of home, heritage, and strength.
+Allie Par. 8: Through farming, cooking, and eating centuries of African Americans have reinforced the strength and conviction necessary in the wake of so much hardship. Okra acts as one of the closest connections to life in Africa, a life that was ripped away from so many, and with the help of its cultivators in the American South it came to thrive. The New York Botanical Garden unveiled the African American Garden: Remembrance & Resilience at their Edible Academy to honor African American history through a plant lens. The garden walk includes eight distinct beds with different plants that speak to a different aspect of their story: In The Beginning, Greens, Grains, Cookpot, Making & Mending, Out in the Wild, Curing & Conjuring, and Remembrance & Resilience. Two of which, ‘The Cookpot’ and the ‘Curing & Conjuring’ the former of which is described as an homage to cooking through ‘Old World’ and ‘New World’ feature crops such as okra.
 <param ve-image
 	label="Okra's Herbarium Specimen"
  	license="CCBY"
