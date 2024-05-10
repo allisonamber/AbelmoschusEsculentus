@@ -75,9 +75,9 @@ url="https://raw.githubusercontent.com/allisonamber/AbelmoschusEsculentus/main/a
 
 Malek Par. 5: Okra thrived alongside other African crops in the gardens of the enslaved across the Americas, with the practice of community botanical gardens beginning in the West Indies before spreading to the North American colonies. These gardens were sites of intercultural meetings between African, Indigenous, and European traditions. While the practice of cultivating gardens was certainly not allowed in all plantations across the Americas, in the places where such plots were allotted to enslaved communities, these gardens became sites of physical and spiritual sustenance and survival. As Michael W. Twitty notes, the gardens of the enslaved often became sites of spiritual significance, featuring mystical “power objects” such as “shells,” other “charms,” and “conjure bags,” embodying the fusion of African, Indigenous, and European traditions in the material culture of the space. Alongside this spiritual sustenance, there was also the very physical necessity of food and sustenance. In many cases, plantation owners provided little to no sustenance to their enslaved workers, and so the alloted plots that became community gardens became necessary sites of cultivation to ensure the physical survival in places where “food supplies were chronically scarce.” Okra played a primary role in these gardens, so much so that early botanists and travelers to the Americas noted the prevalence of the crop among the African diaspora.
 <param ve-image 
-       title="Image from page 442 of "A journey in the seaboard slave states : with remarks on their economy" (1856)" 
-url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/A_journey_in_the_seaboard_slave_states_-_with_remarks_on_their_economy_%281856%29_%2814780245224%29.jpg/608px-A_journey_in_the_seaboard_slave_states_-_with_remarks_on_their_economy_%281856%29_%2814780245224%29.jpg?20150920015504"
-       label="journeyinseaboarolms" 
+       title="Image from page 442 of A journey in the seaboard slave states : with remarks on their economy"
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/A_journey_in_the_seaboard_slave_states_-_with_remarks_on_their_economy_%281856%29_%2814780245224%29.jpg/608px-A_journey_in_the_seaboard_slave_states_-_with_remarks_on_their_economy_%281856%29_%2814780245224%29.jpg?20150920015504"
+       label="journeyinseaboarolms"
        description="Image of Home Life"
        license="Public Domain - Flickr">
 
