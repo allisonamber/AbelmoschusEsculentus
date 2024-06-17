@@ -10,14 +10,6 @@
 <param ve-entity eid="Q41264"> <!-- Dunkin Chen -->
 <param ve-entity eid="Q221092"> <!-- CC by-SA 4.0 Deed -->
 
-<param ve-image
-	title="Abelmoschus Esculentus"
-	url="https://www.archive.org/download/profdrthomsflora03thom/page/n643_w410"
-	label="Flora von Deutschland"
-	description="Botanical illustration from Thomé's Natural History"
-	license="CC BY-SA 4.0"
-	region="-172,94,862,701">
-
 # The Fighting Okra
 Allie Par. 1: While Okra doesn’t always have the best reputation–often due to misconceptions about its slimy texture–depictions of the globetrotting vegetable are never severed from its strength and dependability. So much so, approximately twenty years ago Mississippi’s Delta State University’s student body collectively rejected the school’s official mascot ‘the Statesman.’ Instead, the students called for a new mascot, one that paid homage to their southern roots and represented their teams athletic prowess. Although the university didn’t initially take to the mighty vegetable eventually this would change as the ‘Fighting Okra’ became the face of various campus activities, locations, and practices. In recent years, the adoption of the okra as their mascot has garnered interest in the small southern university with videos of the Fighting Okra going viral online. Videos such as the Fighting Okra pushing a DSU swimmer into a faster lap time with interestingly intimidating threats thereby exemplifying the mythos surrounding the okra. And DSU isn’t alone, in fact, okra’s biological characteristics have inspired cultures internationally for centuries. In fact, DSU’s mascot is emblematic of a larger historical relationship communities around the world have with this easy-to-grow, highly diverse plant from this fruit to flower. The Lost Crops of Africa describes the okra as the “perfect villager’s vegetable” because it’s “robust, productive, fast-growing, high yielding, and seldom felled by pests and diseases. It adapts to difficult conditions and can thrive where other food plants prove unreliable”. In other words, okra’s dependable biological characteristics has inspired profound respect for the vegetable for centuries. In turn, okra has become indispensable from its ties to home, heritage, and community strength. Thus, despite its ticklish fibers and sticky slimy texture, the crop has evolved into a cultural phenomenon that communities around the world continue to ‘stick to’ as a treasured reminder of home, heritage, and community strength.[^Ref 1]
 <param ve-image
@@ -28,12 +20,13 @@ Allie Par. 1: While Okra doesn’t always have the best reputation–often due t
  
 # Origins
 Malek Par. 1: Okra (from the Igbo word okuru), or by its scientific name Abelmoschus escultenus, is a cultigen or a plant species that humans have selected for cultivation with no discernable wild ancestor. Okra hails from the Mallow family, sharing ties with plants such as hibiscus and cotton. In appearance, okra very closely resembles the hibiscus plant, and it was often mistaken for hibiscus in early botanical texts. Okra rises from the ground and branches into green leaves and pale yellow and red flowers, complemented by long green vegetable sprouts that hold seeds within. The plant’s premodern zone of cultivation is based in the tropics and subtropics of the eastern hemisphere, extending from Southeast Asia to West Africa. In terms of its precise origins, scientists have often theorized it to be the descendant of an older species originating in either East Africa or South and Southeast Asia. Chris Smith suggests that the Asian origin story is the more likely one as the “wild relative” of okra to which its East African origin is often attributed also grew in adjacent regions of Asia in prehistory. In spite of these theories, okra’s precise origins remain unknown. Regardless, African communities extending from the Horn of Africa to the shores of West Africa have cultivated the plant for thousands of years. From Africa, we can begin to trace okra’s journey from prehistoric cultivation to an international symbol of African diasporic survival, resilience, and cultural continuity. 
-<param ve-image 
-	title="Abelmoschus Esculentus" 
-url="https://upload.wikimedia.org/wikipedia/commons/b/bf/Abelmoschus_esculentus.jpg?20050625103651"
-	label="Bill Tarpenning, USDA" 
-	description="Photo of Okra Plant"
-	license="Public Domain - US Government">
+<param ve-image
+	title="Abelmoschus Esculentus"
+	url="https://www.archive.org/download/profdrthomsflora03thom/page/n643_w410"
+	label="Flora von Deutschland"
+	description="Botanical illustration from Thomé's Natural History"
+	license="CC BY-SA 4.0"
+	region="-172,94,862,701">
 
 # Crossing Borders
 Malek Par. 2: Okra's historical basis in Africa begins with its first appearance in the written record through the Arabic language as bamiya in Ibn al-Baytar’s 1216 pharmaceutical text Kitāb al-Jāmiʿ li-Mufradāt al-Adwiya wa-l-Aghdhiya. In this text, he compiled a catalog of 1400 plants, including information about their characteristics and their traditional uses. For okra’s description, Al-Baytar referenced the words of his teacher,  Abu al-Abbas al-Nabati, who encountered the vegetable on a visit to Egypt in 1216 CE. He compared the plant and its “black” and “sweet” fruit to hibiscus trees in Al-Andalus. This comparison was particularly inspired by the red center that both flowers share as well as the shape and form of the flower itself. particularly references the red of its flowers. The textended with a culinary emphasis, describing how “the people of Egypt'' ate and prepared bamiya with meat and “hot spices.” Today, a comparable dish called bamiya (in Egypt and Western Asia) or ganaouiya (in Northwest Africa) is still cooked and eaten. In this enduring culinary tradition, cooks continue to pair the vegetable with protein in a slow-cooked and highly spiced stew.
