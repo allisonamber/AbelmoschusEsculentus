@@ -74,9 +74,8 @@ Malek Par. 5: Okra thrived alongside other African crops in the gardens of the e
        url="https://upload.wikimedia.org/wikipedia/commons/8/83/Slave_quarters_on_a_sugar_Plantation_Wellcome_L0045265.jpg"
        label=" Slave quarters in a habitation in Martinique, by Jules Boilly, 1826. Picture from the book Voyage pittoresque dans les deux Amériques, by Alcide Dessalines d'Orbigny, published in Paris in 1836."
        description="Image of homes of the enslaved"
-       license="Public Domain - Welcome Collection">
-
-       https://upload.wikimedia.org/wikipedia/commons/8/83/Slave_quarters_on_a_sugar_Plantation_Wellcome_L0045265.jpg
+       license="Public Domain - Welcome Collection"
+	region="286,535,2383,1707">
 
 Malek Par. 6: Okra’s place in these gardens begins in Brazil with Willem Piso, a Dutch Physician and Naturalist, documenting the plant on a plantation in 1658.. In particular, he emphasized the important function these gardens played in not only physically sustaining enslaved communities but also connecting them back to their homeland in Angola: “Just as the Europeans sometimes brought plants and fortunes, [...] so too the Africans, among the usual herbs brought here for study, even now nourish themselves [with plants] such as quigombo and sesame.” This connection also lives through the language as rather than using a Latinized scientific name, Piso, employs the term quigombo, a name originating in the Kimbundu language of Angola. In 1707, Hans Sloane also mentioned okra as a staple, both as food and medicine, in the community gardens of the enslaved in Jamaica. In particular, he uses the term “Gardens” to describe these spaces where the enslaved cultivated their own crops, and he also hints at the “Europeans” adoption of okra as the plant was “very carefully planted by Europeans, as well as Slaves in their Gardens.” By the end of the century, in 1792, okra has become one of the most important crops among the African diaspora, with the English captain Hugh Crowe noting the prevalence of the vegetable as being “‘well-known’”in the ports of Africa and the Americas and as an “‘ingredient in making soup’” in the West Indies. Already, okra was leaving a mark in the written colonial record, transferring from the gardens and kitchens of the African diaspora to the greater America culinary scene. 
 <param ve-image 
