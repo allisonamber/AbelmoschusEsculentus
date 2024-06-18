@@ -44,7 +44,7 @@ url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Description_of_a_
 
 <param ve-image 
        title="Navio negreiro"
-url="https://en.wikipedia.org/wiki/Atlantic_slave_trade_to_Brazil#/media/File:Navio_negreiro_-_Rugendas_1830.jpg"
+url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Navio_negreiro_-_Rugendas_1830.jpg/800px-Navio_negreiro_-_Rugendas_1830.jpg?20160429163244"
        label="Painting Artist: Johann Moritz Rugendas ("faithful photographic reproduction")" 
        description="Scene on the Middle Passage"
        license="Public Domain in country of origin and in the US because it is a "faithful reproduction": {{PD - US}}"
