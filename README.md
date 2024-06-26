@@ -147,4 +147,4 @@ url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Abelmoschus_mosch
 # References
 [^Ref 1]: Wayne Cavadi, “Just What Is The Fighting Okra,” NCAA, accessed June 18, 2024,https://www.ncaa.com/news/baseball/article/2017-05-30/dii-baseball-championship-just-what-fighting-okra.
 
-[^Ref 2]: Wayne Cavadi, “Just What Is The Fighting Okra,” NCAA, accessed June 18, 2024, /https://www.ncaa.com/news/baseball/article/2017-05-30/dii-baseball-championship-just-what-fighting-okra./
+[^Ref 2]: Wayne Cavadi, “Just What Is The Fighting Okra,” NCAA, accessed June 18, 2024, <https://www.ncaa.com/news/baseball/article/2017-05-30/dii-baseball-championship-just-what-fighting-okra.>
