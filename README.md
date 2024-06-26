@@ -111,12 +111,6 @@ In 1918, George Washington Carver, an agricultural scientist born during enslave
   url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/George_Washington_Carver_c1910_-_Restoration.jpg/640px-George_Washington_Carver_c1910_-_Restoration.jpg">
 
 Despite the significant scientific and culinary achievements reached by African Americans like Malinda Russell and George Washington Carver, by the 1930s the entertainment and advertising businesses began pushing a very contradictory image of Black people. One notable figure that would emerge from minstrelsy, is the racist caricature of a Black cook, Aunt Jemima. Aunt Jemima is a ‘mammy’ created by, who is now known as, the Pearl Milling Company spanning nearly 100 years to sell recipes and cooking products to a largely white customer base. Implicitly selling customers the notion, as James Beard winning food historian Toni Tipton-Martin claims, the culinary labor required for their products is easy enough for a slave to do. Thereby undermining the generations of forced labor and cultural knowledge required to foster the culinary skills misrepresented by white media.
-<param ve-image
-	label="Aunt Jemima"
-	description="Aunt Jemima pancake box advertisement"
- 	license="public domain"
-	region="-12,-140,666,705"
-  	url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Aunt_Jemima_-_America%27s_Best-Loved_Pancakes%2C_1951.jpg/640px-Aunt_Jemima_-_America%27s_Best-Loved_Pancakes%2C_1951.jpg">
 
 However, in the wake of the Civil Rights Movement Black communities took matters in their own hands to contest this gross misrepresentation. In the later 1960s into the 1970s soul food dishes such ‘fried okra’ began to surge in popularity again due to a wave of African Americans migrating up north. The longing for home birthed a movement of Black authored soul food cookbooks like Hattie Rhinehart-Griffin’s 1969 _Soul-Food CookBook_ which called on recipes and ingredients that epitomized ‘home.’ For instance, Rhinehart-Griffin’s take on fried okra simultaneously pays homage to both her African and Southern roots. 
 <param ve-image
@@ -152,4 +146,4 @@ url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Abelmoschus_mosch
 	
 # References
 [^Ref 1]: Wayne Cavadi, “Just What Is The Fighting Okra,” NCAA, accessed June 18, 2024,https://www.ncaa.com/news/baseball/article/2017-05-30/dii-baseball-championship-just-what-fighting-okra.
-[^Ref 2]: (Wayne Cavadi, “Just What Is The Fighting Okra,” NCAA, accessed June 18, 2024,)[https://www.ncaa.com/news/baseball/article/2017-05-30/dii-baseball-championship-just-what-fighting-okra.]
+[^Ref 2]: Wayne Cavadi, “Just What Is The Fighting Okra,” NCAA, accessed June 18, 2024,(https://www.ncaa.com/news/baseball/article/2017-05-30/dii-baseball-championship-just-what-fighting-okra.)
