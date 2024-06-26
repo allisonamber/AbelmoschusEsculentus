@@ -32,7 +32,7 @@ Okra (from the Igbo word okuru), [^Ref 4] also known by its scientific name Abel
 Okra's historical basis in Africa begins with its first appearance in the written record through the Arabic language as bamiya in Ibn al-Baytar’s 1216 pharmaceutical text Kitab al-Jamiʿ li-Mufradat al-Adwiya wa-l-Aghdhiya. In this text, Al-Baytar compiled a catalog of 1400 plants, including information about their characteristics and their traditional uses. For okra’s description, Al-Baytar referenced the words of his teacher, Abu al-Abbas al-Nabati, who encountered the vegetable on a visit to Egypt in 1216 CE. [^Ref 7] He compared the plant and its “black” and “sweet” fruit to hibiscus trees in Al-Andalus. This comparison was particularly inspired by the red center that both flowers share, as well as the shape and form of the flowers themselves. The okra description ends with a culinary emphasis, describing how “the people of Egypt'' ate and prepared bamiya with meat and “hot spices.” [^Ref 8] Today, a comparable dish called bamiya (in Egypt and Western Asia) or ganaouiya (in Northwest Africa) is still cooked and eaten. In this enduring culinary tradition, cooks continue to pair the vegetable with protein in a slow-cooked and highly spiced stew. 
 <param ve-iframe	src="https://archive.org/details/1_20210320_20210320_0857/%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%20%D9%84%D9%85%D9%81%D8%B1%D8%AF%D8%A7%D8%AA%20%D8%A7%D9%84%D8%A3%D8%AF%D9%88%D9%8A%D8%A9%20%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%AF%D9%8A%D8%A9%20%D8%A5%D8%A8%D9%86%20%D8%A7%D9%84%D8%A8%D9%8A%D8%B7%D8%A7%D8%B1%D8%AC%201/page/n111/mode/1up?view=theater&ui=embed&wrapper=false">
  
-Okra’s journey from Africa to the Americas begins in the decades following Columbus’ 1492 arrival in the Americas and the subsequent establishment of European colonies. From that period onward, European traders began buying captured Africans and forcibly displacing them to the Americas during the Transatlantic Slave Trade. The harrowing journey from Africa to the Americas, which would become known as the Middle Passage, during which okra and other African crops became especially important as sources of sustenance and survival in the America-bound ships. Chris Smith traces the first accounts of okra’s arrival across the Atlantic in South America in the 1600s, before its arrival in North America at the ports of Charleston and New Orleans a century later. The details of okra's journey across the Atlantic, however, remain unclear with some family oral histories suggesting that enslaved individuals hid the seeds in their hair. Jessica Harris and Chris Smith, however, argue that such transports would have been unlikely; rather than enslaved individuals hiding and carrying the crops and seeds, it would have the enslavers and traders who would have brought okra and other African crops with the people they displaced to ensure that that captives would eat and survive the Middle Passage. In this way, okra’s initial journey to the Americas was also one of force that ensured “slave owner control” over the individuals they enslaved; however, in the Americas, okra and other African crops would become a means of reclamation against that forced displacement through the expression of an African past and identity in gardens and kitchens. (checking)
+Okra’s journey from Africa to the Americas began in the decades following Columbus’ 1492 arrival in the Americas and the subsequent establishment of European colonies. From that period onward, European traders began buying captured Africans and forcibly displacing them to the Americas during the transatlantic slave trade, [^Ref 9] with the first documented transport leaving Africa and arriving in the Americas in 1525. [^Ref 10] The harrowing journey from Africa to the Americas would become known as the Middle Passage, during which okra and other African crops became especially important as sources of sustenance in the America-bound ships. [^Ref 11] Chris Smith traces the first accounts of okra’s arrival across the Atlantic in South America in the 1600s, before its arrival in North America at the ports of Charleston and New Orleans a century later. [^Ref 12] The details of okra's journey across the Atlantic, however, remain unclear, with some family oral histories suggesting that enslaved individuals hid the seeds of the plant in their hair. Jessica B. Harris and Chris Smith, however, argue that such transports would have been unlikely; rather than enslaved individuals hiding and carrying the crops and seeds, it would have been the enslavers and traders who most likely brought okra and other African crops with the people they displaced to ensure that that captives would eat and survive the Middle Passage. [^Ref 13] In this way, okra’s initial journey to the Americas was also one of force that ensured “slave owner control” over the individuals they enslaved. [^Ref 14] Nevertheless, in the Americas, okra and other African crops would become a means of reclamation against that forced displacement through the expression of an African past and identity in gardens and kitchens. 
 <param ve-image 
        title="Navio negreiro"
 url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Navio_negreiro_-_Rugendas_1830.jpg/800px-Navio_negreiro_-_Rugendas_1830.jpg?20160429163244"
@@ -148,3 +148,19 @@ url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Abelmoschus_mosch
 [^Ref 5]:
 
 [^Ref 6]:
+
+[^Ref 7]:
+
+[^Ref 8]:
+
+[^Ref 9]:
+
+[^Ref 10]:
+
+[^Ref 11]:
+
+[^Ref 12]:
+
+[^Ref 13]:
+
+[^Ref 14]:
