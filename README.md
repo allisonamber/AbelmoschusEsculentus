@@ -36,10 +36,10 @@ Okra’s journey from Africa to the Americas began in the decades following Colu
 <param ve-image 
        title="Navio negreiro"
 url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Navio_negreiro_-_Rugendas_1830.jpg/800px-Navio_negreiro_-_Rugendas_1830.jpg?20160429163244"
-       label="Painting Artist: Johann Moritz Rugendas ("faithful photographic reproduction")" 
+       label="Painting Artist: Johann Moritz Rugendas ("faithful photographic reproduction")"
        description="Scene on the Middle Passage"
        license="Public Domain in country of origin and in the US because it is a "faithful reproduction": {{PD - US}}"
-	region="-29,-67,858,615"> 
+       region="-29,-67,858,615"> 
      
 Okra’s journey from Africa to the Americas begins in the decades following Columbus’ 1492 arrival in the Americas and the subsequent establishment of European colonies. From that period onward, European traders began buying captured Africans and forcibly displacing them to the Americas during the Transatlantic Slave Trade. The harrowing journey from Africa to the Americas, which would become known as the Middle Passage, during which okra and other African crops became especially important as sources of sustenance and survival in the <span data-mouseover-map-flyto="30.0364,-90.4134"> America-bound </span> ships (Carney and Rosomoff 124). Chris Smith traces the first accounts of okra’s arrival across the Atlantic in South America in the 1600s, before its arrival in North America at the ports of Charleston and New Orleans a century later. The details of okra's journey across the Atlantic, however, remain unclear with some family oral histories suggesting that enslaved individuals hid the seeds in their hair. Jessica Harris and Chris Smith, however, argue that such transports would have been unlikely; rather than enslaved individuals hiding and carrying the crops and seeds, it would have the enslavers and traders who would have brought okra and other African crops with the people they displaced to ensure that that captives would eat and survive the Middle Passage. In this way, okra’s initial journey to the Americas was also one of force that ensured “slave owner control” over the individuals they enslaved; however, in the Americas, okra and other African crops would become a means of reclamation against that forced displacement through the expression of an African past and identity in gardens and kitchens.
 <param ve-map
