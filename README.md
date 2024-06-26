@@ -143,7 +143,8 @@ Allie Par. 6: Half a century later, Black chefs are still working to undo the da
 # Conclusion: The People's Vegetable
 Allie Par. 8: Through farming, cooking, and eating centuries of African Americans have reinforced the strength and conviction necessary in the wake of so much hardship. Okra acts as one of the closest connections to life in Africa, a life that was ripped away from so many, and with the help of its cultivators in the American South it came to thrive. The New York Botanical Garden unveiled the African American Garden: Remembrance & Resilience at their Edible Academy to honor African American history through a plant lens. The garden walk includes eight distinct beds with different plants that speak to a different aspect of their story: In The Beginning, Greens, Grains, Cookpot, Making & Mending, Out in the Wild, Curing & Conjuring, and Remembrance & Resilience. Two of which, ‘The Cookpot’ and the ‘Curing & Conjuring’ the former of which is described as an homage to cooking through ‘Old World’ and ‘New World’ feature crops such as okra.
 <param ve-image
-	label="Okra's Herbarium Specimen"
+	label="Herbarium Specimen of Okra"
+	description="Part of the NYBG African American Garden at the Edible Academy"
  	license="CCBY"
 	region="-70,54,1042,1103"
 url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Abelmoschus_moschatus_Medik._%28AM_AK28139%29.jpg/900px-Abelmoschus_moschatus_Medik._%28AM_AK28139%29.jpg?20171231234827">
