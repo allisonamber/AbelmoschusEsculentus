@@ -80,40 +80,45 @@ Okra’s place in these gardens begins in Brazil with Willem Piso, a Dutch Physi
 	src="https://www.biodiversitylibrary.org/page/780430">
  
 # The Significance of The Kitchen 
-One such legacy is that of James Heming, the head chef at President Jefferson’s Monticello plantation. Though he only arrived at the plantation as a boy among the many other enslaved persons living and working in Monticello. With time Hemings proved to be most adept with culinary work. By 1784, the Jeffersons rewarded his great culinary skills by accompanying them to Europe and instructing the young chef to receive proper education from a Parisian cooking school. Upon the completion of his education Hemings would not only be the first American to do so, but it would also result in him introducing several French dishes into the United States.
+Another legacy of okra involves James Hemings, the head chef at Thomas Jefferson’s Monticello plantation. Though he only arrived at the plantation as a boy among the many other enslaved persons living and working in Monticello, Hemings proved over time to be adept at culinary work. By 1784, the Jeffersons rewarded his culinary skills by having him accompany them to Europe and instructing the young chef to attend a Parisian cooking school. Upon the completion of his education, Hemings returned to the United States and became the first person to introduce several French dishes there. [^Ref 28]
 <param ve-image
 	label="Jefferson's Monticello Plantation in VA"
-	description="Monticello"
+	description="Monticello Where Heming Lived and Worked"
 	license="CC SA 3.0"
 	region="109,-49,411,435"
 url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Thomas_Jefferson%27s_Monticello.JPG/640px-Thomas_Jefferson%27s_Monticello.JPG">
 
-Though limited in comparison to his white counterparts, the warm reception Hemings received for his work was highly uncommon for an enslaved person. In fact, the Old South historically tried to deny the contributions African Americans have made to their cuisine. For instance, the highly regarded American cookbook, _The Virginia House-wife_, in part claimed the techniques, practices, and recipes of the enslaved people doing this housework without ever acknowledging their contributions. 
+Though limited, the recognition Hemings received for his work was highly uncommon, given that he was an enslaved person. In fact, white enslavers in the South historically tried to deny the contributions African Americans made to their cuisine. For instance, Mary Randolph’s *The Virginia House-wife,* [^Ref 29] a highly regarded cookbook from 1824, in part claimed the techniques, practices, and recipes of the enslaved people doing this domestic work without ever acknowledging their contributions. 
 <param ve-image
-	label="Mary Randolph, author of the _The Virginia House-Wife_"
-	description="Picture of Mary Randolph"
+	label="Mary Randolph, author of the *The Virginia House-Wife*"
+	description="Portrait of Mary Randolph"
 	license="public domain"
 url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mrs._David_Meade_Randolph%2C_head-and-shoulders_portrait%2C_right_profile_LCCN2007677865.jpg/640px-Mrs._David_Meade_Randolph%2C_head-and-shoulders_portrait%2C_right_profile_LCCN2007677865.jpg"
  	region="15,69,618,577">
   
-In 1918, George Washington Carver, an agricultural scientist born during enslavement, also contributed his own okra recipe to the culinary record. By that point, Carver had already made lasting contributions to American agricultural science, namely through his scientific studies of agricultural practices connected to the cultivation of okra and other community garden crops, as well as ways through which okra fibers could be used to make “rugs” and “rope.” In Carver’s personal writings and correspondences, his love of okra is particularly striking, recurring in letters from 1907-1914 between himself and fellow American botanist Louis Herman Pammel. In Carver’s 1918 okra recipe, he combines the sliced vegetable with tomatoes, rice, and other vegetables to make a soup.
+After the Civil War and the abolition of slavery, the deep knowledge of okra that African Americans had began to come into clearer view. In 1918, George Washington Carver, an agricultural scientist born into slavery, also contributed his own okra recipe to the culinary record, in which he combined the sliced vegetable with tomatoes, rice, and other vegetables to make a soup. By that point, Carver had already made lasting contributions to American agricultural science, namely through his scientific studies of agricultural practices connected to the cultivation of okra and other community garden crops, as well as ways through which okra fibers could be used to make “rugs” and “rope.” In Carver’s personal writings and correspondence, his knowledge of okra is particularly striking, recurring in letters from 1907-1914 between himself and fellow American botanist Louis Herman Pammel. In response to one of Pammel’s letters, Carver explained why he would not be able to send him okra right away: “We are just planting Okra down here, so therefore I cannot [give] any of the green plants for at least a month, and up to date I have been unable to find the dry stalks, I will continue to look and if I can get any will forward them to you with pleasure.” Carver’s letter highlights his familiarity with the okra cultivation process. In particular, he emphasizes the month-long growing cycle of the plant, which on average requires approximately 55 days to produce fruit. During this time, the plant usually rises to a height of four and a half feet and a branch width of two to three feet. Along with the short harvest time, okra also prefers a warmer climate although, as Smith indicates, it can indeed grow in more northern regions with careful handling and preparation. Okra is also quite resilient against drought, though limited water negatively impacts the fruit’s quality and development. 
 <param ve-image
-	label="George Washington Carver"
+	label="A Portrait of George Washington Carver"
+	description="George Washington Carver"
  	license="public domain"
 	region="-50,0,741,785"
-  url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/George_Washington_Carver_c1910_-_Restoration.jpg/640px-George_Washington_Carver_c1910_-_Restoration.jpg">
+url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/George_Washington_Carver_c1910_-_Restoration.jpg/640px-George_Washington_Carver_c1910_-_Restoration.jpg">
 
-Despite the significant scientific and culinary achievements reached by African Americans like Malinda Russell and George Washington Carver, by the 1930s the entertainment and advertising businesses began pushing a very contradictory image of Black people. One notable figure that would emerge from minstrelsy, is the racist caricature of a Black cook, Aunt Jemima. Aunt Jemima is a ‘mammy’ created by, who is now known as, the Pearl Milling Company spanning nearly 100 years to sell recipes and cooking products to a largely white customer base. Implicitly selling customers the notion, as James Beard winning food historian Toni Tipton-Martin claims, the culinary labor required for their products is easy enough for a slave to do. Thereby undermining the generations of forced labor and cultural knowledge required to foster the culinary skills misrepresented by white media.
-
-However, in the wake of the Civil Rights Movement Black communities took matters in their own hands to contest this gross misrepresentation. In the later 1960s into the 1970s soul food dishes such ‘fried okra’ began to surge in popularity again due to a wave of African Americans migrating up north. The longing for home birthed a movement of Black authored soul food cookbooks like Hattie Rhinehart-Griffin’s 1969 _Soul-Food CookBook_ which called on recipes and ingredients that epitomized ‘home.’ For instance, Rhinehart-Griffin’s take on fried okra simultaneously pays homage to both her African and Southern roots. 
+Despite the significant scientific and culinary achievements reached by African Americans such as George Washington Carver, by the 1930s, the entertainment and advertising businesses began promoting a contradictory image of Black people and their culinary contributions. [^Ref 38] In other words, these stereotypes downplayed the generations of forced labor and cultural knowledge required to foster the culinary skills and influence actually possessed by African Americans. In the wake of the Civil Rights Movement, however, Black communities began to take  matters of representation into their own hands to contest racist mischaracterizations. In the 1960s and 1970s, soul food dishes such as fried okra began to surge in popularity again due to a wave of African Americans migrating up north. [^Ref 39] The longing for old foodways birthed a movement of Black-authored soul food cookbooks like Hattie Rhinehart-Griffin’s 1969 Soul-Food Cookbook, which called for recipes and ingredients that epitomized home, which referred both to the South and to Africa. For instance, Rhinehart-Griffin’s take on fried okra [^Ref 40] simultaneously pays homage to both her African and Southern roots.
 <param ve-image
-	label="Fried Okra"
- 	description="A plate of fried okra from the Praline Connection restaurant"
+	label="A New Orleans Style Fried Okra"
+	description="A Plate of Fried Okra From The Praline Connection Restaurant"
   	license="CC SA 4.0"
 	region="0,-93,630,667"
+ 	license="public domain"
 url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Praline_Connection_New_Orleans_Sept_2018_Fried_Okra.jpg/640px-Praline_Connection_New_Orleans_Sept_2018_Fried_Okra.jpg">
-  
-# Honoring Ancestry
+
+Today, Black chefs are taking this message of reconnecting with history and the past further by expanding the idea of ‘Black food.’ [^Ref 41] Famed chef Marcus Samuelsson pays tribute to modern Black chefs, creatives, and food historians in his cookbook The Rise: Soul of American Food, which includes dishes that represent the large catalog of Black cuisine. [^Ref 43] Noteworthy among them is his take on a southern tradition with the “Leah Chase Gumbo” recipe, which he named in honor of American chef Leah Chase. By giving credit to Chase, Samuelsson underscores the complex network and history of diverse, nutritional, and delicious recipes crafted by Black chefs. 
+<param ve-image
+	label="Gumbo"
+ 	License="CC SA 2.0"
+url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Gumbo_%281027297591%29.jpg/640px-Gumbo_%281027297591%29.jpg">
+
 Today, Black chefs are taking this message a bit further by expanding the zeitgeist’s idea of ‘Black food.’ Famed chef, Marcus Samuelsson, pays tribute to modern Black chefs, creatives, and food historians in his cookbook _The Rise: Soul of American Food_, with dishes that represent the large catalog of Black cuisine. Noteworthy among them is his take a southern tradition with the “Leah Chase Gumbo” recipe in honor of American chef, Leah Chase, in which Samuelsson crafts a classic dish with okra at the center. Thus, his work underscores the complex network of diverse, nutritional, and delicious recipes crafted by Black chefs.
 <param ve-image
 	label="Gumbo"
