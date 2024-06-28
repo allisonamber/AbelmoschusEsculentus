@@ -69,14 +69,15 @@ url="https://raw.githubusercontent.com/allisonamber/AbelmoschusEsculentus/main/a
 Okra thrived alongside other African crops in the gardens of the enslaved across the Americas, with the practice of community botanical gardens beginning in the West Indies before spreading to the North American colonies. These gardens were sites of intercultural meetings between African, Indigenous, and European traditions. While the practice of cultivating gardens was certainly not allowed in all plantations across the Americas, in the places where such plots were allotted to enslaved communities, these gardens became sites of physical and spiritual sustenance and survival. As Michael W. Twitty notes, the gardens of the enslaved often became sites of spiritual significance, featuring mystical “power objects” such as “shells,” other “charms,” and “conjure bags,” embodying the fusion of African, Indigenous, and European traditions in the material culture of the space. Alongside this spiritual sustenance, there was also the very physical necessity of food and sustenance. In many cases, plantation owners provided little to no sustenance to their enslaved workers, and so the alloted plots that became community gardens became necessary sites of cultivation to ensure the physical survival in places where “food supplies were chronically scarce.” Okra played a primary role in these gardens, so much so that early botanists and travelers to the Americas noted the prevalence of the crop among the African diaspora.
 <param ve-image 
        title="Scene of living quarters on Martinique, from Jules Boilly"
-       url="https://upload.wikimedia.org/wikipedia/commons/8/83/Slave_quarters_on_a_sugar_Plantation_Wellcome_L0045265.jpg"
+url="https://upload.wikimedia.org/wikipedia/commons/8/83/Slave_quarters_on_a_sugar_Plantation_Wellcome_L0045265.jpg"
        label=" Slave quarters in a habitation in Martinique, by Jules Boilly, 1826. Picture from the book Voyage pittoresque dans les deux Amériques, by Alcide Dessalines d'Orbigny, published in Paris in 1836."
        description="Gardens and homes of an enslaved community in Martinique"
        license="Public Domain - Welcome Collection"
 	region="286,535,2383,1707">
 
 Okra’s place in these gardens begins in Brazil with Willem Piso, a Dutch Physician and Naturalist, documenting the plant on a plantation in 1658.. In particular, he emphasized the important function these gardens played in not only physically sustaining enslaved communities but also connecting them back to their homeland in Angola: “Just as the Europeans sometimes brought plants and fortunes, [...] so too the Africans, among the usual herbs brought here for study, even now nourish themselves [with plants] such as quigombo and sesame.” This connection also lives through the language as rather than using a Latinized scientific name, Piso, employs the term quigombo, a name originating in the Kimbundu language of Angola. In 1707, Hans Sloane also mentioned okra as a staple, both as food and medicine, in the community gardens of the enslaved in Jamaica. In particular, he uses the term “Gardens” to describe these spaces where the enslaved cultivated their own crops, and he also hints at the “Europeans” adoption of okra as the plant was “very carefully planted by Europeans, as well as Slaves in their Gardens.” By the end of the century, in 1792, okra has become one of the most important crops among the African diaspora, with the English captain Hugh Crowe noting the prevalence of the vegetable as being “‘well-known’”in the ports of Africa and the Americas and as an “‘ingredient in making soup’” in the West Indies. Already, okra was leaving a mark in the written colonial record, transferring from the gardens and kitchens of the African diaspora to the greater America culinary scene. 
-<param ve-iframe	src="https://www.biodiversitylibrary.org/page/780430">
+<param ve-iframe
+	src="https://www.biodiversitylibrary.org/page/780430">
  
 # The Significance of The Kitchen 
 One such legacy is that of James Heming, the head chef at President Jefferson’s Monticello plantation. Though he only arrived at the plantation as a boy among the many other enslaved persons living and working in Monticello. With time Hemings proved to be most adept with culinary work. By 1784, the Jeffersons rewarded his great culinary skills by accompanying them to Europe and instructing the young chef to receive proper education from a Parisian cooking school. Upon the completion of his education Hemings would not only be the first American to do so, but it would also result in him introducing several French dishes into the United States.
@@ -164,3 +165,67 @@ url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Abelmoschus_mosch
 [^Ref 13]:
 
 [^Ref 14]:
+
+[^Ref 15]: Michael W. Twitty, "Gardens," in *World of a Slave: Encyclopedia of the Material Life of Slaves in the United States,* ed. Kym S. Rice and Martha B. Katz-Hyman (Santa Barbara: Greenwood, 2011), 245.
+
+[^Ref 16]: Twitty, "Gardens," 248.
+
+[^Ref 17]: Carney and Rosomoff, *In the Shadow of Slavery,* 126
+
+[^Ref 18]: Harris, *High on the Hog,* 95.
+
+[^Ref 19]:
+
+[^Ref 20]:
+
+[^Ref 21]:
+
+[^Ref 22]:
+
+[^Ref 23]:
+
+[^Ref 24]:
+
+[^Ref 25]:
+
+[^Ref 26]:
+
+[^Ref 27]: Harris, *High on the Hog*, 71
+
+[^Ref 28]: David Thorson, Beth Clites Sawyer, and Chad Wollerton, “The Life of James Hemings,” *Jefferson Monticello*, Thomas Jefferson Foundation, November 2022, accessed May 6, 2024, <https://www.monticello.org/jameshemings/.>
+
+[^Ref 29]: Mary Randolph, *The Virginia House-wife* (Washington: Printed by Davis and Force, 1824).
+
+[^Ref 30]: Carney and Rosomoff, *In the Shadow of Slavery*, 138.
+
+[^Ref 31]: Smith, *The Whole Okra*, 176.
+
+[^Ref 32]: George Washington Carver, *George Washington Carver In His Own Words,* 2nd ed. (Columbia, MO: University of Missouri Press, 2017), 131, 136.
+
+[^Ref 33]:
+
+[^Ref 34]:
+
+[^Ref 35]:
+
+[^Ref 36]:
+
+[^Ref 37]:
+
+[^Ref 38]: Toni Tipton-Martin, *The Jemima Code: Two Centuries of African American Cookbooks* (Austin: University of Texas Press, 2015), 2.
+
+[^Ref 39]: Toni Tipton-Martin, *The Jemima Code,* 80. 
+
+[^Ref 40]: Hatti Rhinehart-Griffin, *Soul-Food Cookbook* (New York: Carltoess, 1969).
+
+[^Ref 41]:  Marcus Samuelsson, *The Rise: Soul of American Food* (New York, Boston, and London: Voracious, 2020).
+
+[^Ref 42]: Samuelsson, *The Rise,* xiii.
+
+[^Ref 43]: Samuelsson, *The Rise,* 222.
+
+[^Ref 44]: Emily Meggett, *Gullah Geechee Home Cooking: Recipes from the Matriarch of Edisto Island* (New York: Harry N. Abrams, 2022), 94.
+
+[^Ref 45]: Meggett, *Gullah Geechee Home Cooking,* 95.
+
+[^Ref 46]: “African American Garden: Remembrance & Resilience,” New York Botanical Garden, accessed May 6, 2024, <https://www.nybg.org/event/african-american-garden/african-american-garden-remembrance-and-resilience/.>
