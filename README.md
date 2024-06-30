@@ -148,21 +148,23 @@ url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Abelmoschus_mosch
 
 [^Ref 6]: Smith, _The Whole Okra_, 12.
 
-[^Ref 7]:
+[^Ref 7]: Ibid.
 
-[^Ref 8]:
+[^Ref 8]: Ibn Al Baytar, _Kitab Al-jami li-mufradat al-adwiya wa al-aghdhiya_ (Beirut: Dar Kotob Al-Ilmiyyah, 1992), 111.
 
-[^Ref 9]:
 
-[^Ref 10]:
+[^Ref 9]: Harris, High on the Hog, 27.
 
-[^Ref 11]:
+[^Ref 10]: Trans-Atlantic Slave Trade - Estimates," _Slave Voyages_, accessed May 6, 2024, https://www.slavevoyages.org/assessment/estimates?selected_tab=timeline.
 
-[^Ref 12]:
+[^Ref 11]: Judith A. Carney and Richard Nicholas Rosomoff, _In the Shadow of Slavery: Africa's Botanical Legacy in the Atlantic World_ (Berkeley: University of California Press, 2009), 124.
 
-[^Ref 13]:
 
-[^Ref 14]:
+[^Ref 12]: Smith, _The Whole Okra_, 16.
+
+[^Ref 13]: Harris, _High on the Hog_, 30; Smith, _The Whole Okra_, 16.
+
+[^Ref 14]: Smith, _The Whole Okra_, 16.
 
 [^Ref 15]: Michael W. Twitty, "Gardens," in *World of a Slave: Encyclopedia of the Material Life of Slaves in the United States,* ed. Kym S. Rice and Martha B. Katz-Hyman (Santa Barbara: Greenwood, 2011), 245.
 
@@ -172,21 +174,22 @@ url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Abelmoschus_mosch
 
 [^Ref 18]: Harris, *High on the Hog,* 95.
 
-[^Ref 19]:
+[^Ref 19]: Willem Piso, _De Indiae utriusque re naturali et medica libri quatuordecim_ (Amsterdam, 1658), 209-10. Also cited by Carney & Rosomoff, 123.
 
-[^Ref 20]:
+[^Ref 20]: Lupenga Mphande, “Naming and Linguistic Africanisms in African American Culture,” in _Selected Proceedings of the 35th Annual Conference on African Linguistics_, ed. John Mugane et al. (Somerville, MA: Cascadilla Proceedings Project, 2006), 107.
 
-[^Ref 21]:
+[^Ref 21]:  Hans Sloane, _History of Jamaica, vol. 1_ (London, 1707), 223.
 
-[^Ref 22]:
+[^Ref 22]: Ibid.
 
-[^Ref 23]:
+[^Ref 23]: Twitty, “Okra,” in _World of a Slave: Encyclopedia of the Material Life of Slaves in the United States_, ed. Kym S. Rice and Martha B. Katz-Hyman (Santa Barbara: Greenwood, 2011), 359.
 
-[^Ref 24]:
+[^Ref 24]: Charles de L'Écluse, _Rariorum plantarum historia._ (Antwerp, 1601), 404.
 
-[^Ref 25]:
+[^Ref 25]:  Piso, _De Indiae utriusque re naturali et medica libri quatuordecim_, 209-10.
 
-[^Ref 26]:
+
+[^Ref 26]:  Hans Sloane, _History of Jamaica_, 223.
 
 [^Ref 27]: Harris, *High on the Hog*, 71
 
@@ -200,15 +203,15 @@ url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Abelmoschus_mosch
 
 [^Ref 32]: George Washington Carver, *George Washington Carver In His Own Words,* 2nd ed. (Columbia, MO: University of Missouri Press, 2017), 131, 136.
 
-[^Ref 33]:
+[^Ref 33]: George Washington Carver to Louis Herman Pammel, May 10, 1907, Iowa State University, Special Collections and University Archives, George Washington Carver Collection, accessed May 6, 2024, https://n2t.net/ark:/87292/w9x648. 
 
-[^Ref 34]:
+[^Ref 34]: Smith, The Whole Okra, 20.
 
-[^Ref 35]:
+[^Ref 35]: Smith, The Whole Okra, 185.
 
-[^Ref 36]:
+[^Ref 36]: Smith, The Whole Okra, 20.
 
-[^Ref 37]:
+[^Ref 37]: Ibid.
 
 [^Ref 38]: Toni Tipton-Martin, *The Jemima Code: Two Centuries of African American Cookbooks* (Austin: University of Texas Press, 2015), 2.
 
