@@ -72,7 +72,7 @@ url="https://upload.wikimedia.org/wikipedia/commons/8/83/Slave_quarters_on_a_sug
        label=" Slave quarters in a habitation in Martinique, by Jules Boilly, 1826. Picture from the book Voyage pittoresque dans les deux Amériques, by Alcide Dessalines d'Orbigny, published in Paris in 1836."
        description="Gardens and homes of an enslaved community in Martinique"
        license="CC By 4.0"
-	region="286,535,2383,1707">
+	region="-953,-564,4765,3413">
 
 While okra thrived in the gardens of the enslaved, the plant does not seem to have flourished in European kitchens in the same way. Early modern botanical writers such as Charles de L’Ecluse connect the crop’s origins to earlier Italian sources referencing Egypt. [^Ref 24] In terms of use of the okra, early modern botanists also primarily linked the plant to the gardens and the cuisines of enslaved Africans. When they did talk about cultural transference, they focused on okra moving between enslaved Africans and Indigenous peoples of the Americas. For example, Piso notes that Indigenous communities in Brazil began cultivating and preparing the crops enslaved Africans brought. [^Ref 25] At the same time, there is evidence that Europeans living in plantation societies began to adopt okra into their diets. For example, Sloane hints at the European adoption of okra in seventeenth-century Jamaica. As he writes, the plant was “very carefully planted by Europeans, as well as Slaves in their Gardens.” [^Ref 26] Indeed, the major role that enslaved individuals played in the agricultural and culinary development of the Americas would lead to the proliferation of okra in colonial kitchens, especially in the colonies of the American South and the Caribbean. [^Ref 27]
 <param ve-image
