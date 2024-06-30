@@ -205,11 +205,11 @@ url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Abelmoschus_mosch
 
 [^Ref 33]: George Washington Carver to Louis Herman Pammel, May 10, 1907, Iowa State University, Special Collections and University Archives, George Washington Carver Collection, accessed May 6, 2024, https://n2t.net/ark:/87292/w9x648. 
 
-[^Ref 34]: Smith, The Whole Okra, 20.
+[^Ref 34]: Smith, _The Whole Okra_, 20.
 
-[^Ref 35]: Smith, The Whole Okra, 185.
+[^Ref 35]: Smith, _The Whole Okra_, 185.
 
-[^Ref 36]: Smith, The Whole Okra, 20.
+[^Ref 36]: Smith, _The Whole Okra_, 20.
 
 [^Ref 37]: Ibid.
 
