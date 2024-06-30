@@ -37,7 +37,7 @@ Okra’s journey from Africa to the Americas began in the decades following Colu
 	description="A 'faithful photographic reproduction' of a Scene on the Middle Passage"
        label="Scene from the Middle Passage from *Navio negreiro* by Johann Moritz Rugendas"
 	region="-29,-67,858,615"
-       license="PDM 1.0"
+       license="PDM"
 url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Navio_negreiro_-_Rugendas_1830.jpg/800px-Navio_negreiro_-_Rugendas_1830.jpg?20160429163244">
 
 Okra thrived alongside other African crops in the gardens of the enslaved across the Americas. [^Ref 15] These gardens were sites of intercultural meetings between African, Indigenous, and European traditions. While the practice of cultivating gardens was certainly not allowed in all plantations across the Americas, in the places where such plots were allotted to enslaved communities, these gardens became sites of physical and spiritual survival. As Michael W. Twitty notes, the gardens of the enslaved often became sites of religious significance, featuring such mystical “power objects” as “shells,” other “charms,” and “conjure bags,” which embodied the fusion of African, Indigenous, and European traditions in the material used. [^Ref 16] There was also the physical necessity for food that the gardens sustained. In many cases, plantation owners provided little food to their enslaved workers, and the alloted plots that became community gardens were necessary sites of cultivation to ensure physical survival in places where “food supplies were chronically scarce.” [^Ref 17] Okra played an important role in these gardens, as it was one of the main crops cultivated, and this cultivation in the gardens of the enslaved was referenced by a number of early modern botanists and travelers to the Americas. [^Ref 18] 
@@ -79,7 +79,7 @@ While okra thrived in the gardens of the enslaved, the plant does not seem to ha
 	label="Image of Okra from Tab.133 Hans Sloane's *A voyage to the islands Madera, Barbados, Nieves, S. Christophers and Jamaica*, from the Biodiversity Heritage Library"
 	description="Image of Okra"
 	license="CC0"
-	region="109,-49,411,435"
+	region="-214,1,1072,742"
 url="https://ia902709.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753000820123&itemPath=%2F9%2Fitems%2Fmobot31753000820123&server=ia902709.us.archive.org&page=n568_w517">
  
 # The Significance of The Kitchen 
