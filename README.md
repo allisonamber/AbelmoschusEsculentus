@@ -37,7 +37,7 @@ Okra’s journey from Africa to the Americas began in the decades following Colu
 	description="A 'faithful photographic reproduction' of a Scene on the Middle Passage"
        label="*Navio negreiro* by Johann Moritz Rugendas"
 	region="-29,-67,858,615"
-       license="Public Domain in country of origin and in the US: {{PD - US}}"
+       license="PDM 1.0, PD-US"
 url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Navio_negreiro_-_Rugendas_1830.jpg/800px-Navio_negreiro_-_Rugendas_1830.jpg?20160429163244">
 
 Okra thrived alongside other African crops in the gardens of the enslaved across the Americas. [^Ref 15] These gardens were sites of intercultural meetings between African, Indigenous, and European traditions. While the practice of cultivating gardens was certainly not allowed in all plantations across the Americas, in the places where such plots were allotted to enslaved communities, these gardens became sites of physical and spiritual survival. As Michael W. Twitty notes, the gardens of the enslaved often became sites of religious significance, featuring such mystical “power objects” as “shells,” other “charms,” and “conjure bags,” which embodied the fusion of African, Indigenous, and European traditions in the material used. [^Ref 16] There was also the physical necessity for food that the gardens sustained. In many cases, plantation owners provided little food to their enslaved workers, and the alloted plots that became community gardens were necessary sites of cultivation to ensure physical survival in places where “food supplies were chronically scarce.” [^Ref 17] Okra played an important role in these gardens, as it was one of the main crops cultivated, and this cultivation in the gardens of the enslaved was referenced by a number of early modern botanists and travelers to the Americas. [^Ref 18] 
@@ -67,11 +67,11 @@ url="https://raw.githubusercontent.com/allisonamber/AbelmoschusEsculentus/main/a
 
 One early reference comes from [Willem Piso](https://en.wikipedia.org/wiki/Willem_Piso), a Dutch physician and naturalist who documented okra on a Brazilian plantation in 1658. Piso emphasized the important function gardens played not only in physically sustaining enslaved communities but also in connecting them back to their homeland: “Just as the Europeans sometimes brought plants and fortunes, [...] so too the Africans, among the usual herbs brought here for study, even now nourish themselves [with plants] such as quigombo and sesame.” [^Ref 19] This connection also lives through language, as Piso employs the term quigombo for okra, a name originating in the Kimbundu language of Angola. [^Ref 20] In 1707, Hans Sloane also mentioned okra as a staple, both as food and medicine, growing in the  plots tended by the enslaved in Jamaica. [^Ref 21] In particular, he uses the term “Gardens” to describe these spaces where the enslaved cultivated their own crops. [^Ref 22] By the end of the century, in 1792, okra had become one of the most prevalent crops among the African diaspora, with the English captain Hugh Crowe noting the prevalence of the vegetable as being “well-known” in the ports of Africa and the Americas and as an “ingredient in making soup” in the West Indies. [Ref 23] Already, okra was leaving a mark in the written colonial record, transferring from the gardens and kitchens of the African diaspora to the greater American culinary scene. 
 <param ve-image 
-       title="Scene of living quarters on Martinique, from Jules Boilly"
+       title="Scene of living quarters on Martinique, from Jules-Leopold Boilly"
 url="https://upload.wikimedia.org/wikipedia/commons/8/83/Slave_quarters_on_a_sugar_Plantation_Wellcome_L0045265.jpg"
        label=" Slave quarters in a habitation in Martinique, by Jules Boilly, 1826. Picture from the book Voyage pittoresque dans les deux Amériques, by Alcide Dessalines d'Orbigny, published in Paris in 1836."
        description="Gardens and homes of an enslaved community in Martinique"
-       license="Public Domain - Welcome Collection"
+       license="CC By 4.0, from _Wellcome Collections_"
 	region="286,535,2383,1707">
 
 While okra thrived in the gardens of the enslaved, the plant does not seem to have flourished in European kitchens in the same way. Early modern botanical writers such as Charles de L’Ecluse connect the crop’s origins to earlier Italian sources referencing Egypt. [^Ref 24] In terms of use of the okra, early modern botanists also primarily linked the plant to the gardens and the cuisines of enslaved Africans. When they did talk about cultural transference, they focused on okra moving between enslaved Africans and Indigenous peoples of the Americas. For example, Piso notes that Indigenous communities in Brazil began cultivating and preparing the crops enslaved Africans brought. [^Ref 25] At the same time, there is evidence that Europeans living in plantation societies began to adopt okra into their diets. For example, Sloane hints at the European adoption of okra in seventeenth-century Jamaica. As he writes, the plant was “very carefully planted by Europeans, as well as Slaves in their Gardens.” [^Ref 26] Indeed, the major role that enslaved individuals played in the agricultural and culinary development of the Americas would lead to the proliferation of okra in colonial kitchens, especially in the colonies of the American South and the Caribbean. [^Ref 27]
@@ -122,7 +122,7 @@ Half a century later, Black chefs are still working to reclaim their culinary tr
 <param ve-image
 	label="Protrayal of Enslaved Gullah People"
  	description="Painting of enslaved Gullah people on a South Carolina plantation"
-  	license="public domain"
+  	license="CC0"
 url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Gullah_s_carolina_1790.jpg/640px-Gullah_s_carolina_1790.jpg"
 	region="-45,-136,732,684">
 
