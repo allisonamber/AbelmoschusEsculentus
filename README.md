@@ -142,11 +142,11 @@ url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Abelmoschus_mosch
 
 [^Ref 3]: National Research Council. 2006. *Lost Crops of Africa: Volume II: Vegetables.* Washington, DC: The National Academies Press. <https://doi.org/10.17226/11763.>
 
-[^Ref 4]: 
+[^Ref 4]: Jessica B. Harris, _High on the Hog: A Culinary Journey from Africa to America_ (New York, Berlin, London, and Sydney: Bloomsbury, 2011), 17.
 
-[^Ref 5]:
+[^Ref 5]: Smith, _The Whole Okra_, 8.
 
-[^Ref 6]:
+[^Ref 6]: Smith, _The Whole Okra_, 12.
 
 [^Ref 7]:
 
