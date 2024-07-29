@@ -113,7 +113,6 @@ During okra’s growing cycle, the plant usually rises to a height of four-and-a
 	label="'Okra field, Thiruvizha' by Vis M"
 	description="Okra field, Thiruvizha 02.jpg"
  	license="CC BY-SA 4.0"
-	region="-50,0,741,785"
 url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Okra_field%2C_Thiruvizha_02.jpg/800px-Okra_field%2C_Thiruvizha_02.jpg?20220908000553">
 
 Despite the significant scientific and culinary achievements reached by African Americans such as George Washington Carver, by the 1930s, the entertainment and advertising businesses began using stereotypical images of Black people and their culinary contributions. [^Ref 38] That downplayed the generations of forced labor and cultural knowledge required to gain the culinary skills and influence they possessed. In the wake of the Civil Rights Movement, however, Black communities began to take matters of representation into their own hands to contest racist characterizations. In the 1960s and 1970s, soul food dishes such as fried okra began to surge in popularity due to a wave of southern African Americans migrating north. [^Ref 39] The longing for old foodways birthed a movement of Black-authored soul food cookbooks like Hattie Rhinehart-Griffin’s 1969 *Soul-Food Cookbook,* Rhinehart-Griffin included recipes and ingredients that epitomized home--referring to the South and to Africa--including her take on fried okra. [^Ref 40]
