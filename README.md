@@ -221,7 +221,7 @@ url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Abelmoschus_mosch
 
 [^Ref 36]: Smith, 20.
 
-[^Ref 37]: Smith.
+[^Ref 37]: Smith, 20.
 
 [^Ref 38]: Toni Tipton-Martin, *The Jemima Code: Two Centuries of African American Cookbooks* (Austin: University of Texas Press, 2015), 2.
 
