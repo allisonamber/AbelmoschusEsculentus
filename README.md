@@ -111,7 +111,7 @@ During okra’s growing cycle, the plant usually rises to a height of four-and-a
 <param ve-image
 	label="Okra field, Thiruvizha by Vis M"
 	description="Okra field, Thiruvizha 02.jpg"
- 	license="CC BY-SA 4.0 by Vis M"
+ 	license="CC BY-SA 4.0"
 	region="-50,0,741,785"
 url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Okra_field%2C_Thiruvizha_02.jpg/800px-Okra_field%2C_Thiruvizha_02.jpg?20220908000553">
 
