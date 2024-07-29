@@ -167,7 +167,7 @@ url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Abelmoschus_mosch
 
 [^Ref 9]: Harris, 27.
 
-[^Ref 10]: Trans-Atlantic Slave Trade - Estimates," _Slave Voyages_, accessed May 6, 2024, https://www.slavevoyages.org/assessment/estimates?selected_tab=timeline.
+[^Ref 10]: Trans-Atlantic Slave Trade - Estimates," _Slave Voyages_, accessed May 6, 2024, <https://www.slavevoyages.org/assessment/estimates?selected_tab=timeline.>
 
 [^Ref 11]: Judith A. Carney and Richard Nicholas Rosomoff, _In the Shadow of Slavery: Africa's Botanical Legacy in the Atlantic World_ (Berkeley: University of California Press, 2009), 124.
 
