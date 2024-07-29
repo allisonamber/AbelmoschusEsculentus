@@ -110,7 +110,7 @@ url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/George_Washington
 
 During okra’s growing cycle, the plant usually rises to a height of four-and-a-half feet and a branch width of two to three feet. [^Ref 35] Along with the short harvest time, okra also prefers a warm climate although, as Smith indicates, it can grow in more northerly regions with careful handling and preparation. [^Ref 36] Okra is also quite resilient against drought, though limited water negatively impacts the fruit’s quality and development. [^Ref 37]
 <param ve-image
-	label="Okra fruit growing on Margarita Island"
+	label="Okra growing on Margarita Island"
 	description="Okra in Margarita Island.jpg"
  	license="CC0"
 	region="-949,431,4747,3427"
