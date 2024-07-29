@@ -40,7 +40,8 @@ Okra’s journey from Africa to the Americas began in the decades following Colu
        license="PDM 1.0"
 url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Navio_negreiro_-_Rugendas_1830.jpg/800px-Navio_negreiro_-_Rugendas_1830.jpg?20160429163244">
 
-Okra thrived alongside other African crops in the gardens of the enslaved across the Americas. [^Ref 15] These gardens were sites of intercultural meetings between African, Indigenous, and European traditions. While the practice of cultivating gardens was certainly not allowed in all plantations across the Americas, in the places where such plots were allotted to enslaved communities, these gardens became sites of physical and spiritual survival. As Michael W. Twitty notes, the gardens of the enslaved often became sites of religious significance, featuring such mystical “power objects” as “shells,” other “charms,” and “conjure bags,” which embodied the fusion of African, Indigenous, and European traditions in the material used. [^Ref 16] There was also the physical necessity for food that the gardens sustained. In many cases, plantation owners provided little food to their enslaved workers, and the alloted plots that became community gardens were necessary sites of cultivation to ensure physical survival in places where “food supplies were chronically scarce.” [^Ref 17] Okra played an important role in these gardens, as it was one of the main crops cultivated, and this cultivation in the gardens of the enslaved was referenced by a number of early modern botanists and travelers to the Americas. [^Ref 18] 
+Okra thrived with other African crops in many of the gardens of the enslaved across the Americas. [^Ref 15] While the practice of cultivating gardens was not allowed in all plantations across the Americas, where plots were allotted to enslaved communities, the gardens became sites of physical and spiritual survival. As culinary historian Michael W. Twitty notes, the gardens of the enslaved often became sites of religious significance, featuring such mystical “power objects” as shells, other charms, and conjure bags, resulting in the fusion of African, Indigenous, and European traditions. [^Ref 16] There was also the physical necessity for food that the gardens sustained. Since many plantation owners provided their enslaved workers with little food, the allotted plots became community gardens whose cultivation ensured physical survival in places where “food supplies were chronically scarce.” [^Ref 17] Okra was one of the main crops cultivated, a fact that was referenced by a number of early modern botanists and travelers to the Americas. [^Ref 18]
+
 <param ve-map
 	center="30.96, -91.401"
 	zoom="5"
@@ -170,11 +171,11 @@ url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Abelmoschus_mosch
 
 [^Ref 15]: Michael W. Twitty, "Gardens," in *World of a Slave: Encyclopedia of the Material Life of Slaves in the United States,* ed. Kym S. Rice and Martha B. Katz-Hyman (Santa Barbara: Greenwood, 2011), 245.
 
-[^Ref 16]: Twitty, "Gardens," 248.
+[^Ref 16]: Twitty, 248.
 
-[^Ref 17]: Carney and Rosomoff, *In the Shadow of Slavery,* 126
+[^Ref 17]: Carney and Rosomoff, 126.
 
-[^Ref 18]: Harris, *High on the Hog,* 95.
+[^Ref 18]: Harris, 95.
 
 [^Ref 19]: Willem Piso, _De Indiae utriusque re naturali et medica libri quatuordecim_ (Amsterdam, 1658), 209-10. Also cited by Carney & Rosomoff, 123.
 
@@ -182,25 +183,25 @@ url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Abelmoschus_mosch
 
 [^Ref 21]:  Hans Sloane, _History of Jamaica, vol. 1_ (London, 1707), 223.
 
-[^Ref 22]: Ibid.
+[^Ref 22]: Sloane, 223. 
 
 [^Ref 23]: Twitty, “Okra,” in _World of a Slave: Encyclopedia of the Material Life of Slaves in the United States_, ed. Kym S. Rice and Martha B. Katz-Hyman (Santa Barbara: Greenwood, 2011), 359.
 
 [^Ref 24]: Charles de L'Écluse, _Rariorum plantarum historia._ (Antwerp, 1601), 404.
 
-[^Ref 25]:  Piso, _De Indiae utriusque re naturali et medica libri quatuordecim_, 209-10.
+[^Ref 25]:  Piso, _De Indiae utriusque re naturali et medica libri quatuordecim_, 209–10.
 
-[^Ref 26]:  Hans Sloane, _History of Jamaica_, 223.
+[^Ref 26]:  Sloane, 223.
 
-[^Ref 27]: Harris, *High on the Hog*, 71
+[^Ref 27]: Harris, 71
 
 [^Ref 28]: David Thorson, Beth Clites Sawyer, and Chad Wollerton, “The Life of James Hemings,” *Jefferson Monticello*, Thomas Jefferson Foundation, November 2022, accessed May 6, 2024, <https://www.monticello.org/jameshemings/.>
 
 [^Ref 29]: Mary Randolph, *The Virginia House-wife* (Washington: Printed by Davis and Force, 1824).
 
-[^Ref 30]: Carney and Rosomoff, *In the Shadow of Slavery*, 138.
+[^Ref 30]: Carney and Rosomoff, 138.
 
-[^Ref 31]: Smith, *The Whole Okra*, 176.
+[^Ref 31]: Smith, 176.
 
 [^Ref 32]: George Washington Carver, *George Washington Carver In His Own Words,* 2nd ed. (Columbia, MO: University of Missouri Press, 2017), 131, 136.
 
