@@ -149,9 +149,9 @@ Through farming, cooking, and eating, centuries of African Americans have reinfo
 url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Abelmoschus_moschatus_Medik._%28AM_AK28139%29.jpg/900px-Abelmoschus_moschatus_Medik._%28AM_AK28139%29.jpg?20171231234827">
 	
 # References
-[Ref ^1]: Wayne Cavadi, “Just What Is The Fighting Okra,” *NCAA*, accessed June 18, 2024, <https://www.ncaa.com/news/baseball/article/2017-05-30/dii-baseball-championship-just-what-fighting-okra.>
+[^Ref 1]: Wayne Cavadi, “Just What Is The Fighting Okra,” *NCAA*, accessed June 18, 2024, <https://www.ncaa.com/news/baseball/article/2017-05-30/dii-baseball-championship-just-what-fighting-okra.>
 
-[Ref ^2]: “Traditions,” *About DSU*, accessed June 18, 2024, <https://www.deltastate.edu/about-dsu/.>
+[^Ref 2]: “Traditions,” *About DSU*, accessed June 18, 2024, <https://www.deltastate.edu/about-dsu/.>
 
 [^Ref 3]: National Research Council. *Lost Crops of Africa: Volume II: Vegetables.* (Washington, DC: The National Academies Press, 2006), <https://doi.org/10.17226/11763.>
 
