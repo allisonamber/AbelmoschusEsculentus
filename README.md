@@ -195,9 +195,9 @@ url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Abelmoschus_mosch
 
 [^Ref 23]: Twitty, “Okra,” in _World of a Slave: Encyclopedia of the Material Life of Slaves in the United States_, ed. Kym S. Rice and Martha B. Katz-Hyman (Santa Barbara: Greenwood, 2011), 359.
 
-[^Ref 24]: Charles de L'Écluse, _Rariorum plantarum historia._ (Antwerp, 1601), 404.
+[^Ref 24]: Charles de L'Écluse, _Rariorum plantarum historia_ (Antwerp, 1601), 404.
 
-[^Ref 25]:  Piso, _De Indiae utriusque re naturali et medica libri quatuordecim_, 209–10.
+[^Ref 25]:  Piso, 209–10.
 
 [^Ref 26]:  Sloane, 223.
 
