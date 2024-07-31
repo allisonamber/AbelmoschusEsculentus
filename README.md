@@ -19,7 +19,7 @@ Delta State University (DSU) in Mississippi has an unusual mascot: the “Fighti
 	url="https://youtu.be/pS589zKAlnY?feature=shared">
  
 # Origins
-Okra, from the Nigerian [Igbo](https://en.wikipedia.org/wiki/Igbo_language) okuru[^Ref 4]  (its Latin name is Abelmoschus esculentus), is a [cultigen](https://en.wikipedia.org/wiki/Cultigen) or plant species that humans have selected for cultivation with no clearly discernible wild ancestor. It hails from the Mallow family, sharing ties with plants such as cotton and members of the hibiscus genus.[^Ref 5] In terms of floral anatomy, okra closely resembles various hibiscus species and in early botanical texts was often mistaken as a type of hibiscus. The plant rises from the ground and branches into green leaves and pale yellow and red flowers, complemented by long green or red fruit pods containing the seeds. Its original zone of cultivation is in the tropics and subtropics of the eastern hemisphere, extending from Southeast Asia to West Africa. In terms of its precise origins, scientists have theorized it to be the descendant of an older species originating in either East Africa or South and Southeast Asia. Author, seed saver, and permaculturist Chris Smith suggests that the Asian origin story is the more likely, as in prehistory, the wild relative of okra, to which its East African origin is often attributed, also grew in adjacent regions of Asia.[^Ref 6] That said, African communities extending from the Horn of Africa to the shores of West Africa have cultivated the plant for thousands of years. From Africa, we can trace okra’s journey from prehistoric cultivation to an international symbol of African diasporic survival and cultural continuity. 
+Okra, from the Nigerian [Igbo](https://en.wikipedia.org/wiki/Igbo_language) okuru [^Ref 4] (its Latin name is Abelmoschus esculentus), is a [cultigen](https://en.wikipedia.org/wiki/Cultigen) or plant species that humans have selected for cultivation with no clearly discernible wild ancestor. It hails from the Mallow family, sharing ties with plants such as cotton and members of the hibiscus genus.[^Ref 5] In terms of floral anatomy, okra closely resembles various hibiscus species and in early botanical texts was often mistaken as a type of hibiscus. The plant rises from the ground and branches into green leaves and pale yellow and red flowers, complemented by long green or red fruit pods containing the seeds. Its original zone of cultivation is in the tropics and subtropics of the eastern hemisphere, extending from Southeast Asia to West Africa. In terms of its precise origins, scientists have theorized it to be the descendant of an older species originating in either East Africa or South and Southeast Asia. Author, seed saver, and permaculturist Chris Smith suggests that the Asian origin story is the more likely, as in prehistory, the wild relative of okra, to which its East African origin is often attributed, also grew in adjacent regions of Asia.[^Ref 6] That said, African communities extending from the Horn of Africa to the shores of West Africa have cultivated the plant for thousands of years. From Africa, we can trace okra’s journey from prehistoric cultivation to an international symbol of African diasporic survival and cultural continuity. 
 <param ve-image
 	title="Abelmoschus Esculentus"
 	url="https://www.archive.org/download/profdrthomsflora03thom/page/n643_w410"
@@ -197,9 +197,9 @@ url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Abelmoschus_mosch
 
 [^Ref 24]: Charles de L'Écluse, _Rariorum plantarum historia_ (Antwerp, 1601), 404.
 
-[^Ref 25]:  Piso, 209–10.
+[^Ref 25]: Piso, 209–10.
 
-[^Ref 26]:  Sloane, 223.
+[^Ref 26]: Sloane, 223.
 
 [^Ref 27]: Harris, 71
 
@@ -229,7 +229,7 @@ url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Abelmoschus_mosch
 
 [^Ref 40]: Hatti Rhinehart-Griffin, *Soul-Food Cookbook* (New York: Carltoess, 1969).
 
-[^Ref 41]:  Marcus Samuelsson, *The Rise: Soul of American Food* (New York, Boston, and London: Voracious, 2020).
+[^Ref 41]: Marcus Samuelsson, *The Rise: Soul of American Food* (New York, Boston, and London: Voracious, 2020).
 
 [^Ref 42]: Samuelsson, xiii.
 
