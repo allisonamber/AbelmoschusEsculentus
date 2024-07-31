@@ -1,7 +1,7 @@
 <a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
 <param ve-config
-       title="Okra: A Kitchen Staple"
+       title="Okra: An Enduring Kitchen Staple"
        author="Allison Caban and Malek Charchour"
        banner="https://upload.wikimedia.org/wikipedia/commons/3/32/Okra_%28Abelmoschus_esculentus%29_%283%29.jpg"
        layout="vertical">
